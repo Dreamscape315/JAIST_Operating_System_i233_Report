@@ -1,0 +1,2551 @@
+"C:\Users\Chobits-Artdessei\CLionProjects\Operating System\fbt.exe"
+fbt>b 1000
+ssbanger(1): a 5
+ssbanger: A 0 5
+ssbanger(2): a 3
+ssbanger: A 6 3
+ssbanger(3): a 3
+ssbanger: A 10 3
+ssbanger: f 6 3
+ssbanger: F 6 3
+ssbanger(4): a 4
+ssbanger: A 6 4
+ssbanger(5): a 6
+ssbanger: A 15 6
+ssbanger(6): a 2
+ssbanger: A 22 2
+ssbanger(7): a 8
+ssbanger: A 25 8
+ssbanger(8): a 3
+ssbanger: A 34 3
+ssbanger(9): a 3
+ssbanger: A 38 3
+ssbanger: f 6 4
+ssbanger: F 6 4
+ssbanger: f 38 3
+ssbanger: F 38 3
+ssbanger(10): a 3
+ssbanger: A 6 3
+ssbanger(11): a 1
+ssbanger: A 14 1
+ssbanger(12): a 3
+ssbanger: A 39 3
+ssbanger(13): a 4
+ssbanger: A 43 4
+ssbanger(14): a 2
+ssbanger: A 48 2
+ssbanger(15): a 5
+ssbanger: A 51 5
+ssbanger(16): a 4
+ssbanger: A 57 4
+ssbanger(17): a 6
+ssbanger: A 62 6
+ssbanger: f 62 6
+ssbanger: F 62 6
+ssbanger(18): a 3
+ssbanger: A 62 3
+ssbanger(19): a 3
+ssbanger: A 66 3
+ssbanger(20): a 3
+ssbanger: A 70 3
+ssbanger(21): a 2
+ssbanger: A 74 2
+ssbanger(22): a 10
+ssbanger: A 77 10
+ssbanger(23): a 5
+ssbanger: A 88 5
+ssbanger(24): a 3
+ssbanger: A 94 3
+ssbanger(25): a 5
+ssbanger: A 98 5
+ssbanger(26): a 2
+ssbanger: A 104 2
+ssbanger(27): a 4
+ssbanger: A 107 4
+ssbanger(28): a 5
+ssbanger: A 112 5
+ssbanger(29): a 6
+ssbanger: A 118 6
+ssbanger(30): a 9
+ssbanger: A 125 9
+ssbanger: f 66 3
+ssbanger: F 66 3
+ssbanger(31): a 2
+ssbanger: A 66 2
+ssbanger(32): a 13
+ssbanger: A 69 13
+ssbanger: f 48 2
+ssbanger: F 48 2
+ssbanger(33): a 2
+ssbanger: A 48 2
+ssbanger(34): a 10
+ssbanger: A 148 10
+ssbanger(35): a 3
+ssbanger: A 159 3
+ssbanger(36): a 3
+ssbanger: A 163 3
+ssbanger(37): a 5
+ssbanger: A 167 5
+ssbanger(38): a 1
+ssbanger: A 173 1
+ssbanger(39): a 4
+ssbanger: A 175 4
+ssbanger(40): a 1
+ssbanger: A 180 1
+ssbanger: f 104 2
+ssbanger: F 104 2
+ssbanger: f 70 3
+ssbanger: F 70 3
+ssbanger: f 0 5
+ssbanger: F 0 5
+ssbanger: f 6 3
+ssbanger: F 6 3
+ssbanger(41): a 6
+ssbanger: A 0 6
+ssbanger(42): a 7
+ssbanger: A 7 7
+ssbanger(43): a 4
+ssbanger: A 105 4
+ssbanger(44): a 4
+ssbanger: A 185 4
+ssbanger(45): a 6
+ssbanger: A 190 6
+ssbanger(46): a 4
+ssbanger: A 197 4
+ssbanger(47): a 4
+ssbanger: A 202 4
+ssbanger(48): a 2
+ssbanger: A 207 2
+ssbanger: f 148 10
+ssbanger: F 148 10
+ssbanger(49): a 3
+ssbanger: A 148 3
+ssbanger(50): a 2
+ssbanger: A 152 2
+ssbanger(51): a 1
+ssbanger: A 155 1
+ssbanger(52): a 4
+ssbanger: A 157 4
+ssbanger(53): a 2
+ssbanger: A 213 2
+ssbanger(54): a 1
+ssbanger: A 216 1
+ssbanger(55): a 5
+ssbanger: A 218 5
+ssbanger: f 213 2
+ssbanger: F 213 2
+ssbanger(56): a 2
+ssbanger: A 213 2
+ssbanger: f 39 3
+ssbanger: F 39 3
+ssbanger(57): a 3
+ssbanger: A 39 3
+ssbanger(58): a 2
+ssbanger: A 224 2
+ssbanger(59): a 2
+ssbanger: A 227 2
+ssbanger(60): a 4
+ssbanger: A 230 4
+ssbanger(61): a 2
+ssbanger: A 235 2
+ssbanger(62): a 1
+ssbanger: A 238 1
+ssbanger(63): a 3
+ssbanger: A 240 3
+ssbanger(64): a 4
+ssbanger: A 244 4
+ssbanger(65): a 4
+ssbanger: A 249 4
+ssbanger: f 197 4
+ssbanger: F 197 4
+ssbanger(66): a 3
+ssbanger: A 197 3
+ssbanger(67): a 6
+ssbanger: A 201 6
+ssbanger(68): a 1
+ssbanger: A 260 1
+ssbanger(69): a 10
+ssbanger: A 262 10
+ssbanger: f 107 4
+ssbanger: F 107 4
+ssbanger(70): a 1
+ssbanger: A 107 1
+ssbanger(71): a 3
+ssbanger: A 109 3
+ssbanger: f 249 4
+ssbanger: F 249 4
+ssbanger: f 244 4
+ssbanger: F 244 4
+ssbanger(72): a 8
+ssbanger: A 244 8
+ssbanger(73): a 5
+ssbanger: A 253 5
+ssbanger(74): a 4
+ssbanger: A 279 4
+ssbanger(75): a 4
+ssbanger: A 284 4
+ssbanger: f 148 3
+ssbanger: F 148 3
+ssbanger: f 25 8
+ssbanger: F 25 8
+ssbanger(76): a 2
+ssbanger: A 25 2
+ssbanger(77): a 1
+ssbanger: A 28 1
+ssbanger(78): a 3
+ssbanger: A 30 3
+ssbanger(79): a 2
+ssbanger: A 148 2
+ssbanger(80): a 3
+ssbanger: A 151 3
+ssbanger: f 155 1
+ssbanger: F 155 1
+ssbanger(81): a 5
+ssbanger: A 155 5
+ssbanger(82): a 2
+ssbanger: A 296 2
+ssbanger(83): a 2
+ssbanger: A 299 2
+ssbanger: f 14 1
+ssbanger: F 14 1
+ssbanger(84): a 2
+ssbanger: A 14 2
+ssbanger: f 284 4
+ssbanger: F 284 4
+ssbanger(85): a 3
+ssbanger: A 284 3
+ssbanger(86): a 1
+ssbanger: A 288 1
+ssbanger(87): a 5
+ssbanger: A 304 5
+ssbanger(88): a 3
+ssbanger: A 310 3
+ssbanger(89): a 7
+ssbanger: A 314 7
+ssbanger(90): a 3
+ssbanger: A 322 3
+ssbanger(91): a 7
+ssbanger: A 326 7
+ssbanger: f 218 5
+ssbanger: F 218 5
+ssbanger: f 98 5
+ssbanger: F 98 5
+ssbanger(92): a 10
+ssbanger: A 98 10
+ssbanger: f 284 3
+ssbanger: F 284 3
+ssbanger: f 296 2
+ssbanger: F 296 2
+ssbanger: f 34 3
+ssbanger: F 34 3
+ssbanger(93): a 2
+ssbanger: A 34 2
+ssbanger(94): a 5
+ssbanger: A 37 5
+ssbanger(95): a 3
+ssbanger: A 296 3
+ssbanger(96): a 9
+ssbanger: A 335 9
+ssbanger(97): a 5
+ssbanger: A 345 5
+ssbanger(98): a 5
+ssbanger: A 351 5
+ssbanger: f 190 6
+ssbanger: F 190 6
+ssbanger(99): a 6
+ssbanger: A 190 6
+ssbanger(100): a 2
+ssbanger: A 357 2
+ssbanger(101): a 4
+ssbanger: A 360 4
+ssbanger(102): a 2
+ssbanger: A 365 2
+ssbanger(103): a 2
+ssbanger: A 368 2
+ssbanger(104): a 7
+ssbanger: A 371 7
+ssbanger: f 230 4
+ssbanger: F 230 4
+ssbanger(105): a 4
+ssbanger: A 230 4
+ssbanger(106): a 7
+ssbanger: A 379 7
+ssbanger(107): a 3
+ssbanger: A 387 3
+ssbanger: f 152 2
+ssbanger: F 152 2
+ssbanger(108): a 2
+ssbanger: A 152 2
+ssbanger(109): a 3
+ssbanger: A 391 3
+ssbanger(110): a 2
+ssbanger: A 395 2
+ssbanger(111): a 2
+ssbanger: A 398 2
+ssbanger(112): a 3
+ssbanger: A 401 3
+ssbanger: f 288 1
+ssbanger: F 288 1
+ssbanger(113): a 3
+ssbanger: A 288 3
+ssbanger(114): a 3
+ssbanger: A 407 3
+ssbanger(115): a 4
+ssbanger: A 411 4
+ssbanger(116): a 3
+ssbanger: A 416 3
+ssbanger(117): a 4
+ssbanger: A 420 4
+ssbanger: f 240 3
+ssbanger: F 240 3
+ssbanger(118): a 1
+ssbanger: A 240 1
+ssbanger: f 335 9
+ssbanger: F 335 9
+ssbanger(119): a 2
+ssbanger: A 242 2
+ssbanger(120): a 4
+ssbanger: A 336 4
+ssbanger(121): a 3
+ssbanger: A 341 3
+ssbanger: f 167 5
+ssbanger: F 167 5
+ssbanger(122): a 5
+ssbanger: A 167 5
+ssbanger(123): a 3
+ssbanger: A 425 3
+ssbanger(124): a 5
+ssbanger: A 429 5
+ssbanger(125): a 3
+ssbanger: A 435 3
+ssbanger(126): a 9
+ssbanger: A 439 9
+ssbanger: f 253 5
+ssbanger: F 253 5
+ssbanger(127): a 2
+ssbanger: A 253 2
+ssbanger(128): a 5
+ssbanger: A 276 5
+ssbanger: f 371 7
+ssbanger: F 371 7
+ssbanger: f 159 3
+ssbanger: F 159 3
+ssbanger(129): a 3
+ssbanger: A 159 3
+ssbanger(130): a 2
+ssbanger: A 371 2
+ssbanger(131): a 4
+ssbanger: A 374 4
+ssbanger(132): a 3
+ssbanger: A 452 3
+ssbanger(133): a 6
+ssbanger: A 456 6
+ssbanger(134): a 10
+ssbanger: A 463 10
+ssbanger: f 420 4
+ssbanger: F 420 4
+ssbanger: f 242 2
+ssbanger: F 242 2
+ssbanger(135): a 1
+ssbanger: A 242 1
+ssbanger(136): a 4
+ssbanger: A 335 4
+ssbanger(137): a 2
+ssbanger: A 424 2
+ssbanger: f 244 8
+ssbanger: F 244 8
+ssbanger(138): a 4
+ssbanger: A 244 4
+ssbanger(139): a 1
+ssbanger: A 249 1
+ssbanger: f 456 6
+ssbanger: F 456 6
+ssbanger: f 88 5
+ssbanger: F 88 5
+ssbanger(140): a 3
+ssbanger: A 88 3
+ssbanger(141): a 4
+ssbanger: A 92 4
+ssbanger: f 341 3
+ssbanger: F 341 3
+ssbanger(142): a 7
+ssbanger: A 341 7
+ssbanger: f 387 3
+ssbanger: F 387 3
+ssbanger(143): a 6
+ssbanger: A 387 6
+ssbanger(144): a 6
+ssbanger: A 477 6
+ssbanger: f 299 2
+ssbanger: F 299 2
+ssbanger(145): a 1
+ssbanger: A 299 1
+ssbanger(146): a 4
+ssbanger: A 301 4
+ssbanger(147): a 11
+ssbanger: A 488 11
+ssbanger(148): a 3
+ssbanger: A 500 3
+ssbanger(149): a 1
+ssbanger: A 504 1
+ssbanger(150): a 3
+ssbanger: A 506 3
+ssbanger: f 391 3
+ssbanger: F 391 3
+ssbanger(151): a 1
+ssbanger: A 391 1
+ssbanger(152): a 4
+ssbanger: A 393 4
+ssbanger(153): a 4
+ssbanger: A 513 4
+ssbanger(154): a 7
+ssbanger: A 518 7
+ssbanger: f 518 7
+ssbanger: F 518 7
+ssbanger(155): a 3
+ssbanger: A 518 3
+ssbanger(156): a 2
+ssbanger: A 522 2
+ssbanger(157): a 4
+ssbanger: A 525 4
+ssbanger(158): a 4
+ssbanger: A 530 4
+ssbanger(159): a 9
+ssbanger: A 535 9
+ssbanger(160): a 3
+ssbanger: A 545 3
+ssbanger(161): a 7
+ssbanger: A 549 7
+ssbanger(162): a 9
+ssbanger: A 557 9
+ssbanger(163): a 4
+ssbanger: A 567 4
+ssbanger(164): a 11
+ssbanger: A 572 11
+ssbanger(165): a 4
+ssbanger: A 584 4
+ssbanger(166): a 3
+ssbanger: A 589 3
+ssbanger(167): a 3
+ssbanger: A 593 3
+ssbanger(168): a 2
+ssbanger: A 597 2
+ssbanger(169): a 6
+ssbanger: A 600 6
+ssbanger: f 240 1
+ssbanger: F 240 1
+ssbanger(170): a 3
+ssbanger: A 240 3
+ssbanger(171): a 5
+ssbanger: A 609 5
+ssbanger: f 425 3
+ssbanger: F 425 3
+ssbanger(172): a 5
+ssbanger: A 425 5
+ssbanger(173): a 9
+ssbanger: A 617 9
+ssbanger(174): a 2
+ssbanger: A 627 2
+ssbanger(175): a 1
+ssbanger: A 630 1
+ssbanger(176): a 6
+ssbanger: A 632 6
+ssbanger: f 335 4
+ssbanger: F 335 4
+ssbanger: f 69 13
+ssbanger: F 69 13
+ssbanger(177): a 5
+ssbanger: A 69 5
+ssbanger: f 425 5
+ssbanger: F 425 5
+ssbanger: f 393 4
+ssbanger: F 393 4
+ssbanger(178): a 4
+ssbanger: A 140 4
+ssbanger(179): a 6
+ssbanger: A 145 6
+ssbanger(180): a 2
+ssbanger: A 421 2
+ssbanger(181): a 8
+ssbanger: A 425 8
+ssbanger(182): a 3
+ssbanger: A 639 3
+ssbanger(183): a 1
+ssbanger: A 643 1
+ssbanger(184): a 5
+ssbanger: A 645 5
+ssbanger(185): a 7
+ssbanger: A 651 7
+ssbanger(186): a 7
+ssbanger: A 659 7
+ssbanger(187): a 2
+ssbanger: A 667 2
+ssbanger(188): a 2
+ssbanger: A 670 2
+ssbanger(189): a 8
+ssbanger: A 673 8
+ssbanger(190): a 4
+ssbanger: A 682 4
+ssbanger(191): a 5
+ssbanger: A 687 5
+ssbanger(192): a 2
+ssbanger: A 693 2
+ssbanger(193): a 4
+ssbanger: A 696 4
+ssbanger: f 670 2
+ssbanger: F 670 2
+ssbanger: f 224 2
+ssbanger: F 224 2
+ssbanger(194): a 2
+ssbanger: A 224 2
+ssbanger(195): a 6
+ssbanger: A 670 6
+ssbanger: f 190 6
+ssbanger: F 190 6
+ssbanger(196): a 5
+ssbanger: A 190 5
+ssbanger(197): a 2
+ssbanger: A 196 2
+ssbanger(198): a 5
+ssbanger: A 707 5
+ssbanger: f 707 5
+ssbanger: F 707 5
+ssbanger(199): a 3
+ssbanger: A 707 3
+ssbanger: f 530 4
+ssbanger: F 530 4
+ssbanger(200): a 3
+ssbanger: A 530 3
+ssbanger(201): a 6
+ssbanger: A 534 6
+ssbanger(202): a 5
+ssbanger: A 717 5
+ssbanger(203): a 3
+ssbanger: A 723 3
+ssbanger(204): a 3
+ssbanger: A 727 3
+ssbanger(205): a 4
+ssbanger: A 731 4
+ssbanger(206): a 4
+ssbanger: A 736 4
+ssbanger: f 74 2
+ssbanger: F 74 2
+ssbanger(207): a 5
+ssbanger: A 74 5
+ssbanger(208): a 2
+ssbanger: A 744 2
+ssbanger: f 51 5
+ssbanger: F 51 5
+ssbanger(209): a 4
+ssbanger: A 51 4
+ssbanger(210): a 3
+ssbanger: A 56 3
+ssbanger(211): a 4
+ssbanger: A 750 4
+ssbanger(212): a 2
+ssbanger: A 755 2
+ssbanger(213): a 8
+ssbanger: A 758 8
+ssbanger: f 398 2
+ssbanger: F 398 2
+ssbanger(214): a 3
+ssbanger: A 398 3
+ssbanger(215): a 5
+ssbanger: A 768 5
+ssbanger(216): a 7
+ssbanger: A 774 7
+ssbanger(217): a 10
+ssbanger: A 782 10
+ssbanger(218): a 1
+ssbanger: A 793 1
+ssbanger(219): a 4
+ssbanger: A 795 4
+ssbanger(220): a 6
+ssbanger: A 800 6
+ssbanger: f 25 2
+ssbanger: F 25 2
+ssbanger(221): a 3
+ssbanger: A 25 3
+ssbanger(222): a 2
+ssbanger: A 808 2
+ssbanger(223): a 2
+ssbanger: A 811 2
+ssbanger(224): a 3
+ssbanger: A 814 3
+ssbanger(225): a 4
+ssbanger: A 818 4
+ssbanger: f 196 2
+ssbanger: F 196 2
+ssbanger: f 488 11
+ssbanger: F 488 11
+ssbanger(226): a 2
+ssbanger: A 196 2
+ssbanger(227): a 1
+ssbanger: A 490 1
+ssbanger(228): a 8
+ssbanger: A 492 8
+ssbanger(229): a 6
+ssbanger: A 706 6
+ssbanger: f 424 2
+ssbanger: F 424 2
+ssbanger(230): a 4
+ssbanger: A 424 4
+ssbanger: f 627 2
+ssbanger: F 627 2
+ssbanger(231): a 4
+ssbanger: A 627 4
+ssbanger(232): a 2
+ssbanger: A 833 2
+ssbanger: f 288 3
+ssbanger: F 288 3
+ssbanger(233): a 5
+ssbanger: A 288 5
+ssbanger(234): a 1
+ssbanger: A 838 1
+ssbanger(235): a 10
+ssbanger: A 840 10
+ssbanger: f 567 4
+ssbanger: F 567 4
+ssbanger(236): a 2
+ssbanger: A 567 2
+ssbanger(237): a 5
+ssbanger: A 570 5
+ssbanger(238): a 2
+ssbanger: A 855 2
+ssbanger(239): a 5
+ssbanger: A 858 5
+ssbanger(240): a 3
+ssbanger: A 864 3
+ssbanger(241): a 8
+ssbanger: A 868 8
+ssbanger: f 152 2
+ssbanger: F 152 2
+ssbanger: f 151 3
+ssbanger: F 151 3
+ssbanger(242): a 2
+ssbanger: A 151 2
+ssbanger(243): a 15
+ssbanger: A 154 15
+ssbanger: f 617 9
+ssbanger: F 617 9
+ssbanger(244): a 4
+ssbanger: A 617 4
+ssbanger(245): a 5
+ssbanger: A 622 5
+ssbanger: f 518 3
+ssbanger: F 518 3
+ssbanger: f 304 5
+ssbanger: F 304 5
+ssbanger(246): a 6
+ssbanger: A 304 6
+ssbanger(247): a 6
+ssbanger: A 519 6
+ssbanger(248): a 3
+ssbanger: A 894 3
+ssbanger(249): a 7
+ssbanger: A 898 7
+ssbanger(250): a 3
+ssbanger: A 906 3
+ssbanger(251): a 6
+ssbanger: A 910 6
+ssbanger(252): a 6
+ssbanger: A 917 6
+ssbanger(253): a 6
+ssbanger: A 924 6
+ssbanger(254): a 5
+ssbanger: A 931 5
+ssbanger(255): a 6
+ssbanger: A 937 6
+ssbanger: f 57 4
+ssbanger: F 57 4
+ssbanger(256): a 6
+ssbanger: A 57 6
+ssbanger(257): a 2
+ssbanger: A 946 2
+ssbanger(258): a 7
+ssbanger: A 949 7
+ssbanger(259): a 3
+ssbanger: A 957 3
+ssbanger: f 279 4
+ssbanger: F 279 4
+ssbanger(260): a 1
+ssbanger: A 279 1
+ssbanger(261): a 3
+ssbanger: A 281 3
+ssbanger: f 549 7
+ssbanger: F 549 7
+ssbanger(262): a 4
+ssbanger: A 549 4
+ssbanger(263): a 3
+ssbanger: A 554 3
+ssbanger: f 180 1
+ssbanger: F 180 1
+ssbanger(264): a 1
+ssbanger: A 180 1
+ssbanger(265): a 8
+ssbanger: A 963 8
+ssbanger: f 693 2
+ssbanger: F 693 2
+ssbanger: f 477 6
+ssbanger: F 477 6
+ssbanger(266): a 6
+ssbanger: A 477 6
+ssbanger: f 567 2
+ssbanger: F 567 2
+ssbanger(267): a 6
+ssbanger: A 567 6
+ssbanger(268): a 1
+ssbanger: A 973 1
+ssbanger(269): a 5
+ssbanger: A 975 5
+ssbanger(270): a 3
+ssbanger: A 981 3
+ssbanger: f 260 1
+ssbanger: F 260 1
+ssbanger(271): a 4
+ssbanger: A 260 4
+ssbanger(272): a 4
+ssbanger: A 988 4
+ssbanger(273): a 5
+ssbanger: A 993 5
+ssbanger(274): a 5
+ssbanger: A 999 5
+ssbanger(275): a 4
+ssbanger: A 1005 4
+ssbanger(276): a 4
+ssbanger: A 1010 4
+ssbanger(277): a 1
+ssbanger: A 1015 1
+ssbanger: f 639 3
+ssbanger: F 639 3
+ssbanger(278): a 4
+ssbanger: A 639 4
+ssbanger(279): a 3
+ssbanger: A 1018 3
+ssbanger: f 435 3
+ssbanger: F 435 3
+ssbanger(280): a 7
+ssbanger: A 435 7
+ssbanger: f 554 3
+ssbanger: F 554 3
+ssbanger(281): a 2
+ssbanger: A 554 2
+ssbanger: f 567 6
+ssbanger: F 567 6
+ssbanger: f 717 5
+ssbanger: F 717 5
+ssbanger: f 838 1
+ssbanger: F 838 1
+ssbanger: f 299 1
+ssbanger: F 299 1
+ssbanger: f 424 4
+ssbanger: F 424 4
+ssbanger(282): a 7
+ssbanger: A 299 7
+ssbanger(283): a 5
+ssbanger: A 693 5
+ssbanger: f 593 3
+ssbanger: F 593 3
+ssbanger(284): a 4
+ssbanger: A 593 4
+ssbanger(285): a 3
+ssbanger: A 721 3
+ssbanger(286): a 4
+ssbanger: A 838 4
+ssbanger(287): a 3
+ssbanger: A 1027 3
+ssbanger(288): a 4
+ssbanger: A 1031 4
+ssbanger(289): a 3
+ssbanger: A 1036 3
+ssbanger(290): a 10
+ssbanger: A 1040 10
+ssbanger(291): a 8
+ssbanger: A 1051 8
+ssbanger: f 1005 4
+ssbanger: F 1005 4
+ssbanger(292): a 3
+ssbanger: A 1005 3
+ssbanger(293): a 1
+ssbanger: A 1009 1
+ssbanger: f 975 5
+ssbanger: F 975 5
+ssbanger(294): a 6
+ssbanger: A 975 6
+ssbanger(295): a 3
+ssbanger: A 1062 3
+ssbanger(296): a 4
+ssbanger: A 1066 4
+ssbanger(297): a 2
+ssbanger: A 1071 2
+ssbanger(298): a 6
+ssbanger: A 1074 6
+ssbanger(299): a 6
+ssbanger: A 1081 6
+ssbanger(300): a 2
+ssbanger: A 1088 2
+ssbanger(301): a 3
+ssbanger: A 1091 3
+ssbanger(302): a 1
+ssbanger: A 1095 1
+ssbanger: f 627 4
+ssbanger: F 627 4
+ssbanger: f 731 4
+ssbanger: F 731 4
+ssbanger: f 1071 2
+ssbanger: F 1071 2
+ssbanger: f 643 1
+ssbanger: F 643 1
+ssbanger(303): a 2
+ssbanger: A 627 2
+ssbanger(304): a 2
+ssbanger: A 643 2
+ssbanger: f 525 4
+ssbanger: F 525 4
+ssbanger(305): a 11
+ssbanger: A 525 11
+ssbanger(306): a 4
+ssbanger: A 1072 4
+ssbanger(307): a 5
+ssbanger: A 1100 5
+ssbanger(308): a 2
+ssbanger: A 1106 2
+ssbanger(309): a 10
+ssbanger: A 1109 10
+ssbanger(310): a 4
+ssbanger: A 1120 4
+ssbanger(311): a 3
+ssbanger: A 1125 3
+ssbanger: f 949 7
+ssbanger: F 949 7
+ssbanger(312): a 4
+ssbanger: A 949 4
+ssbanger(313): a 2
+ssbanger: A 954 2
+ssbanger(314): a 4
+ssbanger: A 1129 4
+ssbanger(315): a 5
+ssbanger: A 1134 5
+ssbanger(316): a 7
+ssbanger: A 1140 7
+ssbanger(317): a 3
+ssbanger: A 1148 3
+ssbanger(318): a 2
+ssbanger: A 1152 2
+ssbanger: f 504 1
+ssbanger: F 504 1
+ssbanger(319): a 6
+ssbanger: A 504 6
+ssbanger(320): a 1
+ssbanger: A 1160 1
+ssbanger(321): a 2
+ssbanger: A 1162 2
+ssbanger(322): a 5
+ssbanger: A 1165 5
+ssbanger(323): a 4
+ssbanger: A 1171 4
+ssbanger(324): a 12
+ssbanger: A 1176 12
+ssbanger(325): a 2
+ssbanger: A 1189 2
+ssbanger(326): a 2
+ssbanger: A 1192 2
+ssbanger(327): a 2
+ssbanger: A 1195 2
+ssbanger(328): a 6
+ssbanger: A 1198 6
+ssbanger(329): a 3
+ssbanger: A 1205 3
+ssbanger: f 107 1
+ssbanger: F 107 1
+ssbanger(330): a 1
+ssbanger: A 107 1
+ssbanger: f 416 3
+ssbanger: F 416 3
+ssbanger(331): a 6
+ssbanger: A 416 6
+ssbanger(332): a 1
+ssbanger: A 1212 1
+ssbanger: f 109 3
+ssbanger: F 109 3
+ssbanger(333): a 4
+ssbanger: A 109 4
+ssbanger(334): a 9
+ssbanger: A 1215 9
+ssbanger: f 1062 3
+ssbanger: F 1062 3
+ssbanger(335): a 4
+ssbanger: A 1062 4
+ssbanger(336): a 7
+ssbanger: A 1226 7
+ssbanger(337): a 2
+ssbanger: A 1234 2
+ssbanger(338): a 7
+ssbanger: A 1237 7
+ssbanger(339): a 2
+ssbanger: A 1245 2
+ssbanger(340): a 3
+ssbanger: A 1248 3
+ssbanger(341): a 4
+ssbanger: A 1252 4
+ssbanger(342): a 2
+ssbanger: A 1257 2
+ssbanger(343): a 5
+ssbanger: A 1260 5
+ssbanger(344): a 3
+ssbanger: A 1266 3
+ssbanger(345): a 3
+ssbanger: A 1270 3
+ssbanger(346): a 2
+ssbanger: A 1274 2
+ssbanger(347): a 4
+ssbanger: A 1277 4
+ssbanger(348): a 3
+ssbanger: A 1282 3
+ssbanger(349): a 3
+ssbanger: A 1286 3
+ssbanger(350): a 8
+ssbanger: A 1290 8
+ssbanger(351): a 5
+ssbanger: A 1299 5
+ssbanger(352): a 2
+ssbanger: A 1305 2
+ssbanger(353): a 6
+ssbanger: A 1308 6
+ssbanger: f 1257 2
+ssbanger: F 1257 2
+ssbanger(354): a 2
+ssbanger: A 1257 2
+ssbanger: f 808 2
+ssbanger: F 808 2
+ssbanger(355): a 6
+ssbanger: A 808 6
+ssbanger(356): a 9
+ssbanger: A 1319 9
+ssbanger(357): a 2
+ssbanger: A 1329 2
+ssbanger: f 201 6
+ssbanger: F 201 6
+ssbanger(358): a 3
+ssbanger: A 201 3
+ssbanger(359): a 1
+ssbanger: A 257 1
+ssbanger(360): a 6
+ssbanger: A 259 6
+ssbanger: f 43 4
+ssbanger: F 43 4
+ssbanger(361): a 5
+ssbanger: A 43 5
+ssbanger: f 858 5
+ssbanger: F 858 5
+ssbanger(362): a 4
+ssbanger: A 858 4
+ssbanger(363): a 4
+ssbanger: A 863 4
+ssbanger(364): a 5
+ssbanger: A 1343 5
+ssbanger(365): a 2
+ssbanger: A 1349 2
+ssbanger(366): a 3
+ssbanger: A 1352 3
+ssbanger: f 1176 12
+ssbanger: F 1176 12
+ssbanger(367): a 4
+ssbanger: A 1176 4
+ssbanger(368): a 9
+ssbanger: A 1181 9
+ssbanger(369): a 5
+ssbanger: A 1358 5
+ssbanger(370): a 6
+ssbanger: A 1364 6
+ssbanger(371): a 7
+ssbanger: A 1371 7
+ssbanger: f 1081 6
+ssbanger: F 1081 6
+ssbanger(372): a 2
+ssbanger: A 1081 2
+ssbanger(373): a 2
+ssbanger: A 1084 2
+ssbanger(374): a 2
+ssbanger: A 1087 2
+ssbanger(375): a 1
+ssbanger: A 1381 1
+ssbanger(376): a 6
+ssbanger: A 1383 6
+ssbanger(377): a 4
+ssbanger: A 1390 4
+ssbanger(378): a 4
+ssbanger: A 1395 4
+ssbanger(379): a 2
+ssbanger: A 1400 2
+ssbanger(380): a 2
+ssbanger: A 1403 2
+ssbanger(381): a 5
+ssbanger: A 1406 5
+ssbanger: f 973 1
+ssbanger: F 973 1
+ssbanger(382): a 4
+ssbanger: A 973 4
+ssbanger(383): a 3
+ssbanger: A 1415 3
+ssbanger(384): a 3
+ssbanger: A 1419 3
+ssbanger(385): a 3
+ssbanger: A 1423 3
+ssbanger(386): a 2
+ssbanger: A 1427 2
+ssbanger(387): a 8
+ssbanger: A 1430 8
+ssbanger(388): a 3
+ssbanger: A 1439 3
+ssbanger(389): a 8
+ssbanger: A 1443 8
+ssbanger: f 1165 5
+ssbanger: F 1165 5
+ssbanger: f 379 7
+ssbanger: F 379 7
+ssbanger: f 793 1
+ssbanger: F 793 1
+ssbanger(390): a 3
+ssbanger: A 379 3
+ssbanger(391): a 5
+ssbanger: A 383 5
+ssbanger(392): a 5
+ssbanger: A 1165 5
+ssbanger(393): a 2
+ssbanger: A 1452 2
+ssbanger: f 1427 2
+ssbanger: F 1427 2
+ssbanger: f 107 1
+ssbanger: F 107 1
+ssbanger(394): a 3
+ssbanger: A 107 3
+ssbanger(395): a 6
+ssbanger: A 1429 6
+ssbanger: f 506 3
+ssbanger: F 506 3
+ssbanger: f 706 6
+ssbanger: F 706 6
+ssbanger(396): a 2
+ssbanger: A 506 2
+ssbanger(397): a 4
+ssbanger: A 509 4
+ssbanger: f 257 1
+ssbanger: F 257 1
+ssbanger(398): a 4
+ssbanger: A 257 4
+ssbanger: f 858 4
+ssbanger: F 858 4
+ssbanger: f 917 6
+ssbanger: F 917 6
+ssbanger: f 238 1
+ssbanger: F 238 1
+ssbanger(399): a 5
+ssbanger: A 238 5
+ssbanger(400): a 5
+ssbanger: A 862 5
+ssbanger(401): a 1
+ssbanger: A 922 1
+ssbanger(402): a 3
+ssbanger: A 1461 3
+ssbanger: f 1423 3
+ssbanger: F 1423 3
+ssbanger: f 707 3
+ssbanger: F 707 3
+ssbanger(403): a 2
+ssbanger: A 707 2
+ssbanger: f 814 3
+ssbanger: F 814 3
+ssbanger: f 818 4
+ssbanger: F 818 4
+ssbanger: f 326 7
+ssbanger: F 326 7
+ssbanger(404): a 2
+ssbanger: A 326 2
+ssbanger(405): a 4
+ssbanger: A 329 4
+ssbanger(406): a 2
+ssbanger: A 710 2
+ssbanger(407): a 3
+ssbanger: A 816 3
+ssbanger(408): a 12
+ssbanger: A 820 12
+ssbanger(409): a 7
+ssbanger: A 1471 7
+ssbanger: f 425 8
+ssbanger: F 425 8
+ssbanger(410): a 2
+ssbanger: A 425 2
+ssbanger(411): a 3
+ssbanger: A 428 3
+ssbanger(412): a 3
+ssbanger: A 615 3
+ssbanger(413): a 2
+ssbanger: A 1481 2
+ssbanger(414): a 6
+ssbanger: A 1484 6
+ssbanger(415): a 4
+ssbanger: A 1491 4
+ssbanger: f 1329 2
+ssbanger: F 1329 2
+ssbanger: f 615 3
+ssbanger: F 615 3
+ssbanger(416): a 2
+ssbanger: A 615 2
+ssbanger(417): a 2
+ssbanger: A 1330 2
+ssbanger(418): a 1
+ssbanger: A 1480 1
+ssbanger(419): a 5
+ssbanger: A 1497 5
+ssbanger: f 140 4
+ssbanger: F 140 4
+ssbanger(420): a 4
+ssbanger: A 140 4
+ssbanger(421): a 2
+ssbanger: A 1503 2
+ssbanger: f 1171 4
+ssbanger: F 1171 4
+ssbanger(422): a 6
+ssbanger: A 1171 6
+ssbanger(423): a 5
+ssbanger: A 1508 5
+ssbanger(424): a 3
+ssbanger: A 1514 3
+ssbanger(425): a 8
+ssbanger: A 1518 8
+ssbanger: f 1040 10
+ssbanger: F 1040 10
+ssbanger: f 296 3
+ssbanger: F 296 3
+ssbanger: f 88 3
+ssbanger: F 88 3
+ssbanger(426): a 4
+ssbanger: A 88 4
+ssbanger(427): a 6
+ssbanger: A 297 6
+ssbanger: f 297 6
+ssbanger: F 297 6
+ssbanger(428): a 5
+ssbanger: A 297 5
+ssbanger(429): a 4
+ssbanger: A 1043 4
+ssbanger(430): a 3
+ssbanger: A 1048 3
+ssbanger(431): a 3
+ssbanger: A 1528 3
+ssbanger(432): a 6
+ssbanger: A 1532 6
+ssbanger(433): a 3
+ssbanger: A 1539 3
+ssbanger: f 281 3
+ssbanger: F 281 3
+ssbanger(434): a 6
+ssbanger: A 281 6
+ssbanger(435): a 4
+ssbanger: A 1546 4
+ssbanger(436): a 5
+ssbanger: A 1551 5
+ssbanger(437): a 2
+ssbanger: A 1557 2
+ssbanger(438): a 4
+ssbanger: A 1560 4
+ssbanger(439): a 2
+ssbanger: A 1565 2
+ssbanger(440): a 2
+ssbanger: A 1568 2
+ssbanger(441): a 2
+ssbanger: A 1571 2
+ssbanger: f 1266 3
+ssbanger: F 1266 3
+ssbanger: f 69 5
+ssbanger: F 69 5
+ssbanger(442): a 6
+ssbanger: A 69 6
+ssbanger(443): a 3
+ssbanger: A 1267 3
+ssbanger(444): a 8
+ssbanger: A 1575 8
+ssbanger(445): a 4
+ssbanger: A 1584 4
+ssbanger(446): a 3
+ssbanger: A 1589 3
+ssbanger(447): a 19
+ssbanger: A 1593 19
+ssbanger(448): a 2
+ssbanger: A 1613 2
+ssbanger(449): a 3
+ssbanger: A 1616 3
+ssbanger(450): a 3
+ssbanger: A 1620 3
+ssbanger(451): a 24
+ssbanger: A 1624 24
+ssbanger(452): a 4
+ssbanger: A 1649 4
+ssbanger(453): a 4
+ssbanger: A 1654 4
+ssbanger: f 1088 2
+ssbanger: F 1088 2
+ssbanger(454): a 4
+ssbanger: A 1088 4
+ssbanger(455): a 3
+ssbanger: A 1661 3
+ssbanger(456): a 8
+ssbanger: A 1665 8
+ssbanger(457): a 5
+ssbanger: A 1674 5
+ssbanger(458): a 7
+ssbanger: A 1680 7
+ssbanger(459): a 1
+ssbanger: A 1688 1
+ssbanger(460): a 4
+ssbanger: A 1690 4
+ssbanger: f 1270 3
+ssbanger: F 1270 3
+ssbanger(461): a 4
+ssbanger: A 1270 4
+ssbanger(462): a 7
+ssbanger: A 1696 7
+ssbanger: f 1546 4
+ssbanger: F 1546 4
+ssbanger(463): a 3
+ssbanger: A 1546 3
+ssbanger(464): a 1
+ssbanger: A 1550 1
+ssbanger(465): a 6
+ssbanger: A 1705 6
+ssbanger(466): a 3
+ssbanger: A 1712 3
+ssbanger(467): a 2
+ssbanger: A 1716 2
+ssbanger(468): a 8
+ssbanger: A 1719 8
+ssbanger(469): a 3
+ssbanger: A 1728 3
+ssbanger(470): a 2
+ssbanger: A 1732 2
+ssbanger(471): a 4
+ssbanger: A 1735 4
+ssbanger: f 506 2
+ssbanger: F 506 2
+ssbanger(472): a 2
+ssbanger: A 506 2
+ssbanger: f 894 3
+ssbanger: F 894 3
+ssbanger(473): a 2
+ssbanger: A 894 2
+ssbanger(474): a 7
+ssbanger: A 897 7
+ssbanger(475): a 3
+ssbanger: A 1747 3
+ssbanger(476): a 3
+ssbanger: A 1751 3
+ssbanger(477): a 3
+ssbanger: A 1755 3
+ssbanger(478): a 2
+ssbanger: A 1759 2
+ssbanger(479): a 3
+ssbanger: A 1762 3
+ssbanger: f 1129 4
+ssbanger: F 1129 4
+ssbanger(480): a 3
+ssbanger: A 1129 3
+ssbanger: f 1181 9
+ssbanger: F 1181 9
+ssbanger(481): a 4
+ssbanger: A 1133 4
+ssbanger(482): a 2
+ssbanger: A 1185 2
+ssbanger(483): a 4
+ssbanger: A 1188 4
+ssbanger(484): a 2
+ssbanger: A 1768 2
+ssbanger(485): a 2
+ssbanger: A 1771 2
+ssbanger(486): a 8
+ssbanger: A 1774 8
+ssbanger(487): a 7
+ssbanger: A 1783 7
+ssbanger(488): a 5
+ssbanger: A 1791 5
+ssbanger(489): a 3
+ssbanger: A 1797 3
+ssbanger(490): a 3
+ssbanger: A 1801 3
+ssbanger(491): a 2
+ssbanger: A 1805 2
+ssbanger(492): a 2
+ssbanger: A 1808 2
+ssbanger: f 1148 3
+ssbanger: F 1148 3
+ssbanger(493): a 5
+ssbanger: A 1148 5
+ssbanger(494): a 6
+ssbanger: A 1813 6
+ssbanger(495): a 5
+ssbanger: A 1820 5
+ssbanger(496): a 4
+ssbanger: A 1826 4
+ssbanger(497): a 4
+ssbanger: A 1831 4
+ssbanger(498): a 7
+ssbanger: A 1836 7
+ssbanger(499): a 6
+ssbanger: A 1844 6
+ssbanger(500): a 3
+ssbanger: A 1851 3
+ssbanger(501): a 6
+ssbanger: A 1855 6
+ssbanger(502): a 3
+ssbanger: A 1862 3
+ssbanger(503): a 7
+ssbanger: A 1866 7
+ssbanger: f 1575 8
+ssbanger: F 1575 8
+ssbanger(504): a 1
+ssbanger: A 1575 1
+ssbanger(505): a 1
+ssbanger: A 1577 1
+ssbanger(506): a 4
+ssbanger: A 1579 4
+ssbanger(507): a 3
+ssbanger: A 1874 3
+ssbanger(508): a 2
+ssbanger: A 1878 2
+ssbanger(509): a 3
+ssbanger: A 1881 3
+ssbanger(510): a 2
+ssbanger: A 1885 2
+ssbanger(511): a 6
+ssbanger: A 1888 6
+ssbanger: f 1728 3
+ssbanger: F 1728 3
+ssbanger(512): a 6
+ssbanger: A 1728 6
+ssbanger: f 326 2
+ssbanger: F 326 2
+ssbanger: f 1851 3
+ssbanger: F 1851 3
+ssbanger(513): a 5
+ssbanger: A 326 5
+ssbanger: f 105 4
+ssbanger: F 105 4
+ssbanger(514): a 2
+ssbanger: A 105 2
+ssbanger(515): a 3
+ssbanger: A 183 3
+ssbanger(516): a 1
+ssbanger: A 1899 1
+ssbanger(517): a 1
+ssbanger: A 1901 1
+ssbanger(518): a 5
+ssbanger: A 1903 5
+ssbanger(519): a 11
+ssbanger: A 1909 11
+ssbanger(520): a 2
+ssbanger: A 1921 2
+ssbanger(521): a 3
+ssbanger: A 1924 3
+ssbanger(522): a 6
+ssbanger: A 1928 6
+ssbanger: f 1862 3
+ssbanger: F 1862 3
+ssbanger(523): a 5
+ssbanger: A 1862 5
+ssbanger(524): a 4
+ssbanger: A 1937 4
+ssbanger: f 112 5
+ssbanger: F 112 5
+ssbanger(525): a 4
+ssbanger: A 112 4
+ssbanger: f 39 3
+ssbanger: F 39 3
+ssbanger(526): a 3
+ssbanger: A 39 3
+ssbanger(527): a 4
+ssbanger: A 117 4
+ssbanger(528): a 1
+ssbanger: A 1946 1
+ssbanger(529): a 3
+ssbanger: A 1948 3
+ssbanger: f 1381 1
+ssbanger: F 1381 1
+ssbanger(530): a 2
+ssbanger: A 1381 2
+ssbanger(531): a 1
+ssbanger: A 1953 1
+ssbanger(532): a 6
+ssbanger: A 1955 6
+ssbanger(533): a 4
+ssbanger: A 1962 4
+ssbanger(534): a 3
+ssbanger: A 1967 3
+ssbanger(535): a 2
+ssbanger: A 1971 2
+ssbanger(536): a 2
+ssbanger: A 1974 2
+ssbanger(537): a 4
+ssbanger: A 1977 4
+ssbanger(538): a 4
+ssbanger: A 1982 4
+ssbanger(539): a 2
+ssbanger: A 1987 2
+ssbanger(540): a 1
+ssbanger: A 1990 1
+ssbanger(541): a 2
+ssbanger: A 1992 2
+ssbanger(542): a 2
+ssbanger: A 1995 2
+ssbanger(543): a 3
+ssbanger: A 1998 3
+ssbanger(544): a 13
+ssbanger: A 2002 13
+ssbanger: f 1990 1
+ssbanger: F 1990 1
+ssbanger(545): a 3
+ssbanger: A 1990 3
+ssbanger(546): a 7
+ssbanger: A 2018 7
+ssbanger(547): a 7
+ssbanger: A 2026 7
+ssbanger(548): a 2
+ssbanger: A 2034 2
+ssbanger(549): a 8
+ssbanger: A 2037 8
+ssbanger: f 227 2
+ssbanger: F 227 2
+ssbanger(550): a 2
+ssbanger: A 227 2
+ssbanger(551): a 3
+ssbanger: A 2046 3
+ssbanger(552): a 3
+ssbanger: A 2050 3
+ssbanger(553): a 3
+ssbanger: A 2054 3
+ssbanger(554): a 2
+ssbanger: A 2058 2
+ssbanger(555): a 12
+ssbanger: A 2061 12
+ssbanger(556): a 3
+ssbanger: A 2074 3
+ssbanger(557): a 2
+ssbanger: A 2078 2
+ssbanger(558): a 8
+ssbanger: A 2081 8
+ssbanger(559): a 5
+ssbanger: A 2090 5
+ssbanger(560): a 4
+ssbanger: A 2096 4
+ssbanger(561): a 2
+ssbanger: A 2101 2
+ssbanger(562): a 4
+ssbanger: A 2104 4
+ssbanger: f 1189 2
+ssbanger: F 1189 2
+ssbanger(563): a 2
+ssbanger: A 1189 2
+ssbanger(564): a 2
+ssbanger: A 2109 2
+ssbanger: f 1998 3
+ssbanger: F 1998 3
+ssbanger(565): a 2
+ssbanger: A 1998 2
+ssbanger(566): a 4
+ssbanger: A 2001 4
+ssbanger: f 0 6
+ssbanger: F 0 6
+ssbanger(567): a 2
+ssbanger: A 0 2
+ssbanger(568): a 2
+ssbanger: A 3 2
+ssbanger: f 1087 2
+ssbanger: F 1087 2
+ssbanger(569): a 6
+ssbanger: A 6 6
+ssbanger(570): a 3
+ssbanger: A 2119 3
+ssbanger(571): a 4
+ssbanger: A 2123 4
+ssbanger(572): a 7
+ssbanger: A 2128 7
+ssbanger(573): a 2
+ssbanger: A 2136 2
+ssbanger(574): a 3
+ssbanger: A 2139 3
+ssbanger(575): a 5
+ssbanger: A 2143 5
+ssbanger: f 1665 8
+ssbanger: F 1665 8
+ssbanger(576): a 3
+ssbanger: A 1665 3
+ssbanger(577): a 2
+ssbanger: A 1669 2
+ssbanger(578): a 4
+ssbanger: A 1672 4
+ssbanger(579): a 4
+ssbanger: A 2152 4
+ssbanger(580): a 3
+ssbanger: A 2157 3
+ssbanger: f 609 5
+ssbanger: F 609 5
+ssbanger(581): a 3
+ssbanger: A 609 3
+ssbanger(582): a 6
+ssbanger: A 613 6
+ssbanger(583): a 1
+ssbanger: A 2166 1
+ssbanger: f 1546 3
+ssbanger: F 1546 3
+ssbanger(584): a 3
+ssbanger: A 1546 3
+ssbanger(585): a 2
+ssbanger: A 2168 2
+ssbanger(586): a 4
+ssbanger: A 2171 4
+ssbanger(587): a 4
+ssbanger: A 2176 4
+ssbanger(588): a 4
+ssbanger: A 2181 4
+ssbanger(589): a 3
+ssbanger: A 2186 3
+ssbanger: f 477 6
+ssbanger: F 477 6
+ssbanger: f 1248 3
+ssbanger: F 1248 3
+ssbanger(590): a 2
+ssbanger: A 477 2
+ssbanger(591): a 1
+ssbanger: A 480 1
+ssbanger(592): a 10
+ssbanger: A 482 10
+ssbanger(593): a 10
+ssbanger: A 2195 10
+ssbanger: f 92 4
+ssbanger: F 92 4
+ssbanger(594): a 4
+ssbanger: A 92 4
+ssbanger(595): a 4
+ssbanger: A 2206 4
+ssbanger: f 1732 2
+ssbanger: F 1732 2
+ssbanger(596): a 1
+ssbanger: A 1732 1
+ssbanger: f 173 1
+ssbanger: F 173 1
+ssbanger(597): a 6
+ssbanger: A 173 6
+ssbanger(598): a 9
+ssbanger: A 2215 9
+ssbanger: f 755 2
+ssbanger: F 755 2
+ssbanger(599): a 7
+ssbanger: A 755 7
+ssbanger(600): a 5
+ssbanger: A 2230 5
+ssbanger(601): a 6
+ssbanger: A 2236 6
+ssbanger(602): a 4
+ssbanger: A 2243 4
+ssbanger(603): a 2
+ssbanger: A 2248 2
+ssbanger(604): a 6
+ssbanger: A 2251 6
+ssbanger(605): a 5
+ssbanger: A 2258 5
+ssbanger: f 504 6
+ssbanger: F 504 6
+ssbanger(606): a 4
+ssbanger: A 504 4
+ssbanger(607): a 4
+ssbanger: A 1158 4
+ssbanger(608): a 6
+ssbanger: A 2267 6
+ssbanger(609): a 4
+ssbanger: A 2274 4
+ssbanger: f 1282 3
+ssbanger: F 1282 3
+ssbanger: f 62 3
+ssbanger: F 62 3
+ssbanger: f 2054 3
+ssbanger: F 2054 3
+ssbanger: f 800 6
+ssbanger: F 800 6
+ssbanger(610): a 2
+ssbanger: A 62 2
+ssbanger(611): a 4
+ssbanger: A 65 4
+ssbanger(612): a 4
+ssbanger: A 804 4
+ssbanger: f 1557 2
+ssbanger: F 1557 2
+ssbanger(613): a 7
+ssbanger: A 1284 7
+ssbanger(614): a 3
+ssbanger: A 2057 3
+ssbanger(615): a 8
+ssbanger: A 2282 8
+ssbanger(616): a 5
+ssbanger: A 2291 5
+ssbanger(617): a 5
+ssbanger: A 2297 5
+ssbanger(618): a 6
+ssbanger: A 2303 6
+ssbanger(619): a 2
+ssbanger: A 2310 2
+ssbanger: f 937 6
+ssbanger: F 937 6
+ssbanger(620): a 2
+ssbanger: A 937 2
+ssbanger(621): a 3
+ssbanger: A 940 3
+ssbanger(622): a 4
+ssbanger: A 2313 4
+ssbanger: f 345 5
+ssbanger: F 345 5
+ssbanger(623): a 3
+ssbanger: A 345 3
+ssbanger(624): a 2
+ssbanger: A 349 2
+ssbanger(625): a 6
+ssbanger: A 2319 6
+ssbanger(626): a 3
+ssbanger: A 2326 3
+ssbanger(627): a 4
+ssbanger: A 2330 4
+ssbanger(628): a 5
+ssbanger: A 2335 5
+ssbanger(629): a 3
+ssbanger: A 2341 3
+ssbanger(630): a 3
+ssbanger: A 2345 3
+ssbanger: f 257 4
+ssbanger: F 257 4
+ssbanger(631): a 3
+ssbanger: A 257 3
+ssbanger: f 22 2
+ssbanger: F 22 2
+ssbanger: f 1343 5
+ssbanger: F 1343 5
+ssbanger: f 242 1
+ssbanger: F 242 1
+ssbanger: f 1226 7
+ssbanger: F 1226 7
+ssbanger(632): a 4
+ssbanger: A 22 4
+ssbanger(633): a 3
+ssbanger: A 828 3
+ssbanger(634): a 9
+ssbanger: A 1229 9
+ssbanger(635): a 5
+ssbanger: A 1348 5
+ssbanger: f 279 1
+ssbanger: F 279 1
+ssbanger(636): a 3
+ssbanger: A 279 3
+ssbanger(637): a 5
+ssbanger: A 2356 5
+ssbanger(638): a 4
+ssbanger: A 2362 4
+ssbanger(639): a 2
+ssbanger: A 2367 2
+ssbanger(640): a 4
+ssbanger: A 2370 4
+ssbanger: f 1443 8
+ssbanger: F 1443 8
+ssbanger(641): a 2
+ssbanger: A 1443 2
+ssbanger: f 1192 2
+ssbanger: F 1192 2
+ssbanger(642): a 5
+ssbanger: A 1192 5
+ssbanger(643): a 4
+ssbanger: A 1449 4
+ssbanger(644): a 5
+ssbanger: A 2377 5
+ssbanger(645): a 13
+ssbanger: A 2383 13
+ssbanger(646): a 2
+ssbanger: A 2397 2
+ssbanger(647): a 3
+ssbanger: A 2400 3
+ssbanger(648): a 2
+ssbanger: A 2404 2
+ssbanger(649): a 1
+ssbanger: A 2407 1
+ssbanger(650): a 6
+ssbanger: A 2409 6
+ssbanger(651): a 1
+ssbanger: A 2416 1
+ssbanger(652): a 1
+ssbanger: A 2418 1
+ssbanger(653): a 6
+ssbanger: A 2420 6
+ssbanger(654): a 3
+ssbanger: A 2427 3
+ssbanger(655): a 4
+ssbanger: A 2431 4
+ssbanger(656): a 2
+ssbanger: A 2436 2
+ssbanger(657): a 6
+ssbanger: A 2439 6
+ssbanger(658): a 6
+ssbanger: A 2446 6
+ssbanger: f 2418 1
+ssbanger: F 2418 1
+ssbanger(659): a 3
+ssbanger: A 2418 3
+ssbanger(660): a 1
+ssbanger: A 2455 1
+ssbanger(661): a 2
+ssbanger: A 2457 2
+ssbanger(662): a 4
+ssbanger: A 2460 4
+ssbanger: f 1260 5
+ssbanger: F 1260 5
+ssbanger(663): a 3
+ssbanger: A 1260 3
+ssbanger(664): a 8
+ssbanger: A 1264 8
+ssbanger(665): a 3
+ssbanger: A 2472 3
+ssbanger: f 808 6
+ssbanger: F 808 6
+ssbanger(666): a 6
+ssbanger: A 808 6
+ssbanger(667): a 5
+ssbanger: A 2476 5
+ssbanger(668): a 5
+ssbanger: A 2482 5
+ssbanger: f 1990 3
+ssbanger: F 1990 3
+ssbanger: f 1909 11
+ssbanger: F 1909 11
+ssbanger(669): a 1
+ssbanger: A 1909 1
+ssbanger: f 1084 2
+ssbanger: F 1084 2
+ssbanger(670): a 3
+ssbanger: A 1084 3
+ssbanger(671): a 2
+ssbanger: A 1912 2
+ssbanger(672): a 6
+ssbanger: A 1915 6
+ssbanger(673): a 1
+ssbanger: A 1991 1
+ssbanger(674): a 9
+ssbanger: A 2017 9
+ssbanger(675): a 5
+ssbanger: A 2497 5
+ssbanger(676): a 6
+ssbanger: A 2503 6
+ssbanger(677): a 8
+ssbanger: A 2510 8
+ssbanger(678): a 4
+ssbanger: A 2519 4
+ssbanger(679): a 5
+ssbanger: A 2524 5
+ssbanger(680): a 5
+ssbanger: A 2530 5
+ssbanger: f 804 4
+ssbanger: F 804 4
+ssbanger(681): a 4
+ssbanger: A 804 4
+ssbanger(682): a 4
+ssbanger: A 2536 4
+ssbanger: f 1497 5
+ssbanger: F 1497 5
+ssbanger(683): a 4
+ssbanger: A 1497 4
+ssbanger(684): a 3
+ssbanger: A 1502 3
+ssbanger(685): a 4
+ssbanger: A 2544 4
+ssbanger(686): a 2
+ssbanger: A 2549 2
+ssbanger(687): a 2
+ssbanger: A 2552 2
+ssbanger: f 988 4
+ssbanger: F 988 4
+ssbanger(688): a 1
+ssbanger: A 988 1
+ssbanger(689): a 2
+ssbanger: A 990 2
+ssbanger: f 1400 2
+ssbanger: F 1400 2
+ssbanger: f 107 3
+ssbanger: F 107 3
+ssbanger: f 519 6
+ssbanger: F 519 6
+ssbanger(690): a 10
+ssbanger: A 107 10
+ssbanger: f 534 6
+ssbanger: F 534 6
+ssbanger(691): a 6
+ssbanger: A 534 6
+ssbanger(692): a 4
+ssbanger: A 1402 4
+ssbanger: f 368 2
+ssbanger: F 368 2
+ssbanger(693): a 5
+ssbanger: A 368 5
+ssbanger(694): a 1
+ssbanger: A 2560 1
+ssbanger(695): a 7
+ssbanger: A 2562 7
+ssbanger(696): a 2
+ssbanger: A 2570 2
+ssbanger: f 673 8
+ssbanger: F 673 8
+ssbanger(697): a 5
+ssbanger: A 673 5
+ssbanger(698): a 14
+ssbanger: A 679 14
+ssbanger(699): a 4
+ssbanger: A 2585 4
+ssbanger(700): a 4
+ssbanger: A 2590 4
+ssbanger: f 1546 3
+ssbanger: F 1546 3
+ssbanger(701): a 3
+ssbanger: A 1546 3
+ssbanger(702): a 5
+ssbanger: A 2595 5
+ssbanger(703): a 6
+ssbanger: A 2601 6
+ssbanger: f 2136 2
+ssbanger: F 2136 2
+ssbanger(704): a 9
+ssbanger: A 2136 9
+ssbanger(705): a 1
+ssbanger: A 2615 1
+ssbanger: f 1095 1
+ssbanger: F 1095 1
+ssbanger: f 2123 4
+ssbanger: F 2123 4
+ssbanger: f 463 10
+ssbanger: F 463 10
+ssbanger(706): a 6
+ssbanger: A 463 6
+ssbanger(707): a 6
+ssbanger: A 470 6
+ssbanger(708): a 4
+ssbanger: A 2124 4
+ssbanger: f 1252 4
+ssbanger: F 1252 4
+ssbanger(709): a 10
+ssbanger: A 1252 10
+ssbanger(710): a 3
+ssbanger: A 2624 3
+ssbanger(711): a 4
+ssbanger: A 2628 4
+ssbanger: f 109 4
+ssbanger: F 109 4
+ssbanger(712): a 3
+ssbanger: A 109 3
+ssbanger: f 643 2
+ssbanger: F 643 2
+ssbanger: f 2096 4
+ssbanger: F 2096 4
+ssbanger(713): a 4
+ssbanger: A 643 4
+ssbanger(714): a 5
+ssbanger: A 2097 5
+ssbanger(715): a 6
+ssbanger: A 2635 6
+ssbanger(716): a 2
+ssbanger: A 2642 2
+ssbanger(717): a 5
+ssbanger: A 2645 5
+ssbanger(718): a 5
+ssbanger: A 2651 5
+ssbanger(719): a 6
+ssbanger: A 2657 6
+ssbanger(720): a 2
+ssbanger: A 2664 2
+ssbanger: f 808 6
+ssbanger: F 808 6
+ssbanger(721): a 3
+ssbanger: A 808 3
+ssbanger: f 2370 4
+ssbanger: F 2370 4
+ssbanger: f 202 4
+ssbanger: F 202 4
+ssbanger(722): a 3
+ssbanger: A 202 3
+ssbanger(723): a 5
+ssbanger: A 206 5
+ssbanger(724): a 7
+ssbanger: A 2372 7
+ssbanger(725): a 5
+ssbanger: A 2672 5
+ssbanger(726): a 1
+ssbanger: A 2678 1
+ssbanger(727): a 4
+ssbanger: A 2680 4
+ssbanger: f 2001 4
+ssbanger: F 2001 4
+ssbanger: f 981 3
+ssbanger: F 981 3
+ssbanger: f 1995 2
+ssbanger: F 1995 2
+ssbanger(728): a 5
+ssbanger: A 981 5
+ssbanger(729): a 5
+ssbanger: A 1997 5
+ssbanger(730): a 4
+ssbanger: A 2685 4
+ssbanger(731): a 11
+ssbanger: A 2690 11
+ssbanger(732): a 5
+ssbanger: A 2702 5
+ssbanger(733): a 4
+ssbanger: A 2708 4
+ssbanger(734): a 3
+ssbanger: A 2713 3
+ssbanger(735): a 9
+ssbanger: A 2717 9
+ssbanger(736): a 3
+ssbanger: A 2727 3
+ssbanger: f 1443 2
+ssbanger: F 1443 2
+ssbanger(737): a 7
+ssbanger: A 1443 7
+ssbanger(738): a 9
+ssbanger: A 2736 9
+ssbanger(739): a 1
+ssbanger: A 2746 1
+ssbanger(740): a 4
+ssbanger: A 2748 4
+ssbanger(741): a 11
+ssbanger: A 2753 11
+ssbanger(742): a 4
+ssbanger: A 2765 4
+ssbanger(743): a 8
+ssbanger: A 2770 8
+ssbanger(744): a 2
+ssbanger: A 2779 2
+ssbanger(745): a 3
+ssbanger: A 2782 3
+ssbanger(746): a 3
+ssbanger: A 2786 3
+ssbanger: f 868 8
+ssbanger: F 868 8
+ssbanger(747): a 2
+ssbanger: A 868 2
+ssbanger(748): a 1
+ssbanger: A 871 1
+ssbanger(749): a 2
+ssbanger: A 873 2
+ssbanger(750): a 2
+ssbanger: A 876 2
+ssbanger(751): a 4
+ssbanger: A 2792 4
+ssbanger(752): a 3
+ssbanger: A 2797 3
+ssbanger(753): a 2
+ssbanger: A 2801 2
+ssbanger(754): a 5
+ssbanger: A 2804 5
+ssbanger(755): a 1
+ssbanger: A 2810 1
+ssbanger(756): a 8
+ssbanger: A 2812 8
+ssbanger(757): a 5
+ssbanger: A 2821 5
+ssbanger(758): a 3
+ssbanger: A 2827 3
+ssbanger(759): a 3
+ssbanger: A 2831 3
+ssbanger: f 1018 3
+ssbanger: F 1018 3
+ssbanger(760): a 3
+ssbanger: A 1018 3
+ssbanger(761): a 9
+ssbanger: A 2835 9
+ssbanger(762): a 1
+ssbanger: A 2845 1
+ssbanger(763): a 3
+ssbanger: A 2847 3
+ssbanger(764): a 3
+ssbanger: A 2851 3
+ssbanger: f 1267 3
+ssbanger: F 1267 3
+ssbanger(765): a 2
+ssbanger: A 1267 2
+ssbanger(766): a 9
+ssbanger: A 1574 9
+ssbanger(767): a 3
+ssbanger: A 2864 3
+ssbanger(768): a 2
+ssbanger: A 2868 2
+ssbanger: f 2544 4
+ssbanger: F 2544 4
+ssbanger(769): a 8
+ssbanger: A 2544 8
+ssbanger(770): a 2
+ssbanger: A 2875 2
+ssbanger(771): a 7
+ssbanger: A 2878 7
+ssbanger: f 1946 1
+ssbanger: F 1946 1
+ssbanger: f 1352 3
+ssbanger: F 1352 3
+ssbanger(772): a 1
+ssbanger: A 1352 1
+ssbanger(773): a 5
+ssbanger: A 1354 5
+ssbanger(774): a 2
+ssbanger: A 2888 2
+ssbanger: total 1000 allocreq 774 success 774 fail 0
+ssbanger: dumping
+[0] 0 2
+[1] 7 7
+[2] 10 3
+[3] 15 6
+[4] 22 4
+[5] 25 3
+[6] 34 2
+[7] 14 2
+[8] 39 3
+[9] 43 5
+[10] 48 2
+[11] 51 4
+[12] 57 6
+[13] 62 2
+[14] 66 2
+[15] 105 2
+[16] 74 5
+[17] 77 10
+[18] 88 4
+[19] 94 3
+[20] 98 10
+[21] 185 4
+[22] 107 10
+[23] 112 4
+[24] 118 6
+[25] 125 9
+[26] 69 6
+[27] 28 1
+[28] 159 3
+[29] 163 3
+[30] 167 5
+[31] 173 6
+[32] 175 4
+[33] 180 1
+[34] 190 5
+[35] 197 3
+[36] 202 3
+[37] 207 2
+[38] 151 2
+[39] 155 5
+[40] 157 4
+[41] 213 2
+[42] 216 1
+[43] 37 5
+[44] 224 2
+[45] 227 2
+[46] 230 4
+[47] 235 2
+[48] 238 5
+[49] 240 3
+[50] 244 4
+[51] 253 2
+[52] 201 3
+[53] 260 4
+[54] 262 10
+[55] 109 3
+[56] 279 3
+[57] 297 5
+[58] 30 3
+[59] 148 2
+[60] 154 15
+[61] 828 3
+[62] 299 7
+[63] 288 5
+[64] 304 6
+[65] 310 3
+[66] 314 7
+[67] 322 3
+[68] 326 5
+[69] 345 3
+[70] 351 5
+[71] 357 2
+[72] 360 4
+[73] 365 2
+[74] 368 5
+[75] 371 2
+[76] 379 3
+[77] 387 6
+[78] 391 1
+[79] 395 2
+[80] 398 3
+[81] 401 3
+[82] 407 3
+[83] 411 4
+[84] 416 6
+[85] 140 4
+[86] 336 4
+[87] 341 7
+[88] 145 6
+[89] 429 5
+[90] 435 7
+[91] 439 9
+[92] 276 5
+[93] 374 4
+[94] 452 3
+[95] 92 4
+[96] 463 6
+[97] 693 5
+[98] 249 1
+[99] 477 2
+[100] 301 4
+[101] 196 2
+[102] 500 3
+[103] 504 4
+[104] 506 2
+[105] 421 2
+[106] 513 4
+[107] 534 6
+[108] 522 2
+[109] 525 11
+[110] 530 3
+[111] 535 9
+[112] 545 3
+[113] 549 4
+[114] 557 9
+[115] 593 4
+[116] 572 11
+[117] 584 4
+[118] 589 3
+[119] 721 3
+[120] 597 2
+[121] 600 6
+[122] 609 3
+[123] 617 4
+[124] 627 2
+[125] 630 1
+[126] 632 6
+[127] 425 2
+[128] 639 4
+[129] 643 4
+[130] 645 5
+[131] 651 7
+[132] 659 7
+[133] 667 2
+[134] 670 6
+[135] 673 5
+[136] 682 4
+[137] 687 5
+[138] 973 4
+[139] 696 4
+[140] 490 1
+[141] 707 2
+[142] 1402 4
+[143] 838 4
+[144] 723 3
+[145] 727 3
+[146] 1072 4
+[147] 736 4
+[148] 744 2
+[149] 56 3
+[150] 750 4
+[151] 755 7
+[152] 758 8
+[153] 768 5
+[154] 774 7
+[155] 782 10
+[156] 383 5
+[157] 795 4
+[158] 65 4
+[159] 808 3
+[160] 811 2
+[161] 329 4
+[162] 710 2
+[163] 492 8
+[164] 509 4
+[165] 833 2
+[166] 1027 3
+[167] 840 10
+[168] 570 5
+[169] 855 2
+[170] 862 5
+[171] 864 3
+[172] 868 2
+[173] 622 5
+[174] 894 2
+[175] 898 7
+[176] 906 3
+[177] 910 6
+[178] 922 1
+[179] 924 6
+[180] 931 5
+[181] 937 2
+[182] 946 2
+[183] 949 4
+[184] 957 3
+[185] 281 6
+[186] 554 2
+[187] 963 8
+[188] 975 6
+[189] 981 5
+[190] 988 1
+[191] 993 5
+[192] 999 5
+[193] 1005 3
+[194] 1010 4
+[195] 1015 1
+[196] 1018 3
+[197] 1031 4
+[198] 1036 3
+[199] 1043 4
+[200] 1051 8
+[201] 1009 1
+[202] 1062 4
+[203] 1066 4
+[204] 1100 5
+[205] 1074 6
+[206] 1081 2
+[207] 1088 4
+[208] 1091 3
+[209] 470 6
+[210] 1106 2
+[211] 1109 10
+[212] 1120 4
+[213] 1125 3
+[214] 954 2
+[215] 1129 3
+[216] 1134 5
+[217] 1140 7
+[218] 1148 5
+[219] 1152 2
+[220] 1160 1
+[221] 1162 2
+[222] 1165 5
+[223] 1171 6
+[224] 1176 4
+[225] 1189 2
+[226] 1192 5
+[227] 1195 2
+[228] 1198 6
+[229] 1205 3
+[230] 1212 1
+[231] 1215 9
+[232] 1229 9
+[233] 1234 2
+[234] 1237 7
+[235] 1245 2
+[236] 480 1
+[237] 1252 10
+[238] 1257 2
+[239] 1260 3
+[240] 1267 2
+[241] 1270 4
+[242] 1274 2
+[243] 1277 4
+[244] 804 4
+[245] 1286 3
+[246] 1290 8
+[247] 1299 5
+[248] 1305 2
+[249] 1308 6
+[250] 1319 9
+[251] 615 2
+[252] 257 3
+[253] 259 6
+[254] 863 4
+[255] 1348 5
+[256] 1349 2
+[257] 1352 1
+[258] 1133 4
+[259] 1358 5
+[260] 1364 6
+[261] 1371 7
+[262] 1084 3
+[263] 6 6
+[264] 1381 2
+[265] 1383 6
+[266] 1390 4
+[267] 1395 4
+[268] 2560 1
+[269] 1403 2
+[270] 1406 5
+[271] 1415 3
+[272] 1419 3
+[273] 816 3
+[274] 1429 6
+[275] 1430 8
+[276] 1439 3
+[277] 1443 7
+[278] 1452 2
+[279] 1461 3
+[280] 820 12
+[281] 1471 7
+[282] 428 3
+[283] 1330 2
+[284] 1481 2
+[285] 1484 6
+[286] 1491 4
+[287] 1480 1
+[288] 1497 4
+[289] 1503 2
+[290] 1508 5
+[291] 1514 3
+[292] 1518 8
+[293] 1048 3
+[294] 1528 3
+[295] 1532 6
+[296] 1539 3
+[297] 1546 3
+[298] 1551 5
+[299] 1284 7
+[300] 1560 4
+[301] 1565 2
+[302] 1568 2
+[303] 1571 2
+[304] 1575 1
+[305] 1584 4
+[306] 1589 3
+[307] 1593 19
+[308] 1613 2
+[309] 1616 3
+[310] 1620 3
+[311] 1624 24
+[312] 1649 4
+[313] 1654 4
+[314] 1661 3
+[315] 1665 3
+[316] 1674 5
+[317] 1680 7
+[318] 1688 1
+[319] 1690 4
+[320] 1696 7
+[321] 1550 1
+[322] 1705 6
+[323] 1712 3
+[324] 1716 2
+[325] 1719 8
+[326] 1728 6
+[327] 1732 1
+[328] 1735 4
+[329] 897 7
+[330] 1747 3
+[331] 1751 3
+[332] 1755 3
+[333] 1759 2
+[334] 1762 3
+[335] 1185 2
+[336] 1188 4
+[337] 1768 2
+[338] 1771 2
+[339] 1774 8
+[340] 1783 7
+[341] 1791 5
+[342] 1797 3
+[343] 1801 3
+[344] 1805 2
+[345] 1808 2
+[346] 1813 6
+[347] 1820 5
+[348] 1826 4
+[349] 1831 4
+[350] 1836 7
+[351] 1844 6
+[352] 183 3
+[353] 1855 6
+[354] 1862 5
+[355] 1866 7
+[356] 1577 1
+[357] 1579 4
+[358] 1874 3
+[359] 1878 2
+[360] 1881 3
+[361] 1885 2
+[362] 1888 6
+[363] 1899 1
+[364] 1901 1
+[365] 1903 5
+[366] 1909 1
+[367] 1921 2
+[368] 1924 3
+[369] 1928 6
+[370] 1937 4
+[371] 117 4
+[372] 1354 5
+[373] 1948 3
+[374] 1953 1
+[375] 1955 6
+[376] 1962 4
+[377] 1967 3
+[378] 1971 2
+[379] 1974 2
+[380] 1977 4
+[381] 1982 4
+[382] 1987 2
+[383] 1912 2
+[384] 1992 2
+[385] 1997 5
+[386] 1998 2
+[387] 2002 13
+[388] 2018 7
+[389] 2026 7
+[390] 2034 2
+[391] 2037 8
+[392] 2046 3
+[393] 2050 3
+[394] 2057 3
+[395] 2058 2
+[396] 2061 12
+[397] 2074 3
+[398] 2078 2
+[399] 2081 8
+[400] 2090 5
+[401] 2097 5
+[402] 2101 2
+[403] 2104 4
+[404] 2109 2
+[405] 2685 4
+[406] 3 2
+[407] 2119 3
+[408] 2124 4
+[409] 2128 7
+[410] 2136 9
+[411] 2139 3
+[412] 2143 5
+[413] 1669 2
+[414] 1672 4
+[415] 2152 4
+[416] 2157 3
+[417] 613 6
+[418] 2166 1
+[419] 2168 2
+[420] 2171 4
+[421] 2176 4
+[422] 2181 4
+[423] 2186 3
+[424] 482 10
+[425] 2195 10
+[426] 2206 4
+[427] 2215 9
+[428] 2230 5
+[429] 2236 6
+[430] 2243 4
+[431] 2248 2
+[432] 2251 6
+[433] 2258 5
+[434] 1158 4
+[435] 2267 6
+[436] 2274 4
+[437] 2282 8
+[438] 2291 5
+[439] 2297 5
+[440] 2303 6
+[441] 2310 2
+[442] 940 3
+[443] 2313 4
+[444] 349 2
+[445] 2319 6
+[446] 2326 3
+[447] 2330 4
+[448] 2335 5
+[449] 2341 3
+[450] 2345 3
+[451] 2356 5
+[452] 2362 4
+[453] 2367 2
+[454] 206 5
+[455] 1449 4
+[456] 2377 5
+[457] 2383 13
+[458] 2397 2
+[459] 2400 3
+[460] 2404 2
+[461] 2407 1
+[462] 2409 6
+[463] 2416 1
+[464] 2418 3
+[465] 2420 6
+[466] 2427 3
+[467] 2431 4
+[468] 2436 2
+[469] 2439 6
+[470] 2446 6
+[471] 2455 1
+[472] 2457 2
+[473] 2460 4
+[474] 1264 8
+[475] 2472 3
+[476] 2476 5
+[477] 2482 5
+[478] 1915 6
+[479] 1991 1
+[480] 2017 9
+[481] 2497 5
+[482] 2503 6
+[483] 2510 8
+[484] 2519 4
+[485] 2524 5
+[486] 2530 5
+[487] 2536 4
+[488] 1502 3
+[489] 2544 8
+[490] 2549 2
+[491] 2552 2
+[492] 990 2
+[493] 2562 7
+[494] 2570 2
+[495] 679 14
+[496] 2585 4
+[497] 2590 4
+[498] 2595 5
+[499] 2601 6
+[500] 2615 1
+[501] 2624 3
+[502] 2628 4
+[503] 2635 6
+[504] 2642 2
+[505] 2645 5
+[506] 2651 5
+[507] 2657 6
+[508] 2664 2
+[509] 2372 7
+[510] 2672 5
+[511] 2678 1
+[512] 2680 4
+[513] 2690 11
+[514] 2702 5
+[515] 2708 4
+[516] 2713 3
+[517] 2717 9
+[518] 2727 3
+[519] 2736 9
+[520] 2746 1
+[521] 2748 4
+[522] 2753 11
+[523] 2765 4
+[524] 2770 8
+[525] 2779 2
+[526] 2782 3
+[527] 2786 3
+[528] 871 1
+[529] 873 2
+[530] 876 2
+[531] 2792 4
+[532] 2797 3
+[533] 2801 2
+[534] 2804 5
+[535] 2810 1
+[536] 2812 8
+[537] 2821 5
+[538] 2827 3
+[539] 2831 3
+[540] 2835 9
+[541] 2845 1
+[542] 2847 3
+[543] 2851 3
+[544] 1574 9
+[545] 2864 3
+[546] 2868 2
+[547] 2875 2
+[548] 2878 7
+[549] 2888 2
+fbt>

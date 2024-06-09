@@ -1,0 +1,2568 @@
+"C:\Users\Chobits-Artdessei\CLionProjects\Operating System\bmc.exe"
+ssbanger(1): a 5
+ssbanger: A 0 5
+ssbanger(2): a 3
+ssbanger: A 5 3
+ssbanger(3): a 3
+ssbanger: A 8 3
+ssbanger: f 5 3
+ssbanger: F 5 3
+ssbanger(4): a 4
+ssbanger: A 11 4
+ssbanger(5): a 6
+ssbanger: A 15 6
+ssbanger(6): a 2
+ssbanger: A 5 2
+ssbanger(7): a 8
+ssbanger: A 21 8
+ssbanger(8): a 3
+ssbanger: A 29 3
+ssbanger(9): a 3
+ssbanger: A 32 3
+ssbanger: f 11 4
+ssbanger: F 11 4
+ssbanger: f 32 3
+ssbanger: F 32 3
+ssbanger(10): a 3
+ssbanger: A 11 3
+ssbanger(11): a 1
+ssbanger: A 32 1
+ssbanger(12): a 3
+ssbanger: A 33 3
+ssbanger(13): a 4
+ssbanger: A 36 4
+ssbanger(14): a 2
+ssbanger: A 40 2
+ssbanger(15): a 5
+ssbanger: A 42 5
+ssbanger(16): a 4
+ssbanger: A 47 4
+ssbanger(17): a 6
+ssbanger: A 51 6
+ssbanger: f 51 6
+ssbanger: F 51 6
+ssbanger(18): a 3
+ssbanger: A 51 3
+ssbanger(19): a 3
+ssbanger: A 54 3
+ssbanger(20): a 3
+ssbanger: A 57 3
+ssbanger(21): a 2
+ssbanger: A 60 2
+ssbanger(22): a 10
+ssbanger: A 62 10
+ssbanger(23): a 5
+ssbanger: A 72 5
+ssbanger(24): a 3
+ssbanger: A 77 3
+ssbanger(25): a 5
+ssbanger: A 80 5
+ssbanger(26): a 2
+ssbanger: A 85 2
+ssbanger(27): a 4
+ssbanger: A 87 4
+ssbanger(28): a 5
+ssbanger: A 91 5
+ssbanger(29): a 6
+ssbanger: A 96 6
+ssbanger(30): a 9
+ssbanger: A 102 9
+ssbanger: f 54 3
+ssbanger: F 54 3
+ssbanger(31): a 2
+ssbanger: A 54 2
+ssbanger(32): a 13
+ssbanger: A 111 13
+ssbanger: f 40 2
+ssbanger: F 40 2
+ssbanger(33): a 2
+ssbanger: A 124 2
+ssbanger(34): a 10
+ssbanger: A 126 10
+ssbanger(35): a 3
+ssbanger: A 136 3
+ssbanger(36): a 3
+ssbanger: A 139 3
+ssbanger(37): a 5
+ssbanger: A 142 5
+ssbanger(38): a 1
+ssbanger: A 40 1
+ssbanger(39): a 4
+ssbanger: A 147 4
+ssbanger(40): a 1
+ssbanger: A 151 1
+ssbanger: f 85 2
+ssbanger: F 85 2
+ssbanger: f 57 3
+ssbanger: F 57 3
+ssbanger: f 0 5
+ssbanger: F 0 5
+ssbanger: f 11 3
+ssbanger: F 11 3
+ssbanger(41): a 6
+ssbanger: A 152 6
+ssbanger(42): a 7
+ssbanger: A 158 7
+ssbanger(43): a 4
+ssbanger: A 0 4
+ssbanger(44): a 4
+ssbanger: A 165 4
+ssbanger(45): a 6
+ssbanger: A 169 6
+ssbanger(46): a 4
+ssbanger: A 175 4
+ssbanger(47): a 4
+ssbanger: A 179 4
+ssbanger(48): a 2
+ssbanger: A 11 2
+ssbanger: f 126 10
+ssbanger: F 126 10
+ssbanger(49): a 3
+ssbanger: A 56 3
+ssbanger(50): a 2
+ssbanger: A 126 2
+ssbanger(51): a 1
+ssbanger: A 13 1
+ssbanger(52): a 4
+ssbanger: A 128 4
+ssbanger(53): a 2
+ssbanger: A 132 2
+ssbanger(54): a 1
+ssbanger: A 85 1
+ssbanger(55): a 5
+ssbanger: A 183 5
+ssbanger: f 132 2
+ssbanger: F 132 2
+ssbanger(56): a 2
+ssbanger: A 132 2
+ssbanger: f 33 3
+ssbanger: F 33 3
+ssbanger(57): a 3
+ssbanger: A 188 3
+ssbanger(58): a 2
+ssbanger: A 33 2
+ssbanger(59): a 2
+ssbanger: A 191 2
+ssbanger(60): a 4
+ssbanger: A 193 4
+ssbanger(61): a 2
+ssbanger: A 197 2
+ssbanger(62): a 1
+ssbanger: A 134 1
+ssbanger(63): a 3
+ssbanger: A 199 3
+ssbanger(64): a 4
+ssbanger: A 202 4
+ssbanger(65): a 4
+ssbanger: A 206 4
+ssbanger: f 175 4
+ssbanger: F 175 4
+ssbanger(66): a 3
+ssbanger: A 175 3
+ssbanger(67): a 6
+ssbanger: A 210 6
+ssbanger(68): a 1
+ssbanger: A 216 1
+ssbanger(69): a 10
+ssbanger: A 217 10
+ssbanger: f 87 4
+ssbanger: F 87 4
+ssbanger(70): a 1
+ssbanger: A 86 1
+ssbanger(71): a 3
+ssbanger: A 87 3
+ssbanger: f 206 4
+ssbanger: F 206 4
+ssbanger: f 202 4
+ssbanger: F 202 4
+ssbanger(72): a 8
+ssbanger: A 227 8
+ssbanger(73): a 5
+ssbanger: A 202 5
+ssbanger(74): a 4
+ssbanger: A 235 4
+ssbanger(75): a 4
+ssbanger: A 239 4
+ssbanger: f 56 3
+ssbanger: F 56 3
+ssbanger: f 21 8
+ssbanger: F 21 8
+ssbanger(76): a 2
+ssbanger: A 21 2
+ssbanger(77): a 1
+ssbanger: A 23 1
+ssbanger(78): a 3
+ssbanger: A 24 3
+ssbanger(79): a 2
+ssbanger: A 56 2
+ssbanger(80): a 3
+ssbanger: A 243 3
+ssbanger: f 13 1
+ssbanger: F 13 1
+ssbanger(81): a 5
+ssbanger: A 246 5
+ssbanger(82): a 2
+ssbanger: A 207 2
+ssbanger(83): a 2
+ssbanger: A 251 2
+ssbanger: f 32 1
+ssbanger: F 32 1
+ssbanger(84): a 2
+ssbanger: A 253 2
+ssbanger: f 239 4
+ssbanger: F 239 4
+ssbanger(85): a 3
+ssbanger: A 239 3
+ssbanger(86): a 1
+ssbanger: A 13 1
+ssbanger(87): a 5
+ssbanger: A 255 5
+ssbanger(88): a 3
+ssbanger: A 260 3
+ssbanger(89): a 7
+ssbanger: A 263 7
+ssbanger(90): a 3
+ssbanger: A 270 3
+ssbanger(91): a 7
+ssbanger: A 273 7
+ssbanger: f 183 5
+ssbanger: F 183 5
+ssbanger: f 80 5
+ssbanger: F 80 5
+ssbanger(92): a 10
+ssbanger: A 280 10
+ssbanger: f 239 3
+ssbanger: F 239 3
+ssbanger: f 207 2
+ssbanger: F 207 2
+ssbanger: f 29 3
+ssbanger: F 29 3
+ssbanger(93): a 2
+ssbanger: A 27 2
+ssbanger(94): a 5
+ssbanger: A 290 5
+ssbanger(95): a 3
+ssbanger: A 29 3
+ssbanger(96): a 9
+ssbanger: A 295 9
+ssbanger(97): a 5
+ssbanger: A 304 5
+ssbanger(98): a 5
+ssbanger: A 309 5
+ssbanger: f 169 6
+ssbanger: F 169 6
+ssbanger(99): a 6
+ssbanger: A 314 6
+ssbanger(100): a 2
+ssbanger: A 80 2
+ssbanger(101): a 4
+ssbanger: A 169 4
+ssbanger(102): a 2
+ssbanger: A 82 2
+ssbanger(103): a 2
+ssbanger: A 183 2
+ssbanger(104): a 7
+ssbanger: A 320 7
+ssbanger: f 193 4
+ssbanger: F 193 4
+ssbanger(105): a 4
+ssbanger: A 327 4
+ssbanger(106): a 7
+ssbanger: A 331 7
+ssbanger(107): a 3
+ssbanger: A 193 3
+ssbanger: f 126 2
+ssbanger: F 126 2
+ssbanger(108): a 2
+ssbanger: A 185 2
+ssbanger(109): a 3
+ssbanger: A 239 3
+ssbanger(110): a 2
+ssbanger: A 207 2
+ssbanger(111): a 2
+ssbanger: A 338 2
+ssbanger(112): a 3
+ssbanger: A 340 3
+ssbanger: f 13 1
+ssbanger: F 13 1
+ssbanger(113): a 3
+ssbanger: A 343 3
+ssbanger(114): a 3
+ssbanger: A 346 3
+ssbanger(115): a 4
+ssbanger: A 349 4
+ssbanger(116): a 3
+ssbanger: A 353 3
+ssbanger(117): a 4
+ssbanger: A 356 4
+ssbanger: f 199 3
+ssbanger: F 199 3
+ssbanger(118): a 1
+ssbanger: A 13 1
+ssbanger: f 295 9
+ssbanger: F 295 9
+ssbanger(119): a 2
+ssbanger: A 199 2
+ssbanger(120): a 4
+ssbanger: A 295 4
+ssbanger(121): a 3
+ssbanger: A 299 3
+ssbanger: f 142 5
+ssbanger: F 142 5
+ssbanger(122): a 5
+ssbanger: A 360 5
+ssbanger(123): a 3
+ssbanger: A 142 3
+ssbanger(124): a 5
+ssbanger: A 365 5
+ssbanger(125): a 3
+ssbanger: A 370 3
+ssbanger(126): a 9
+ssbanger: A 373 9
+ssbanger: f 202 5
+ssbanger: F 202 5
+ssbanger(127): a 2
+ssbanger: A 201 2
+ssbanger(128): a 5
+ssbanger: A 382 5
+ssbanger: f 320 7
+ssbanger: F 320 7
+ssbanger: f 136 3
+ssbanger: F 136 3
+ssbanger(129): a 3
+ssbanger: A 135 3
+ssbanger(130): a 2
+ssbanger: A 203 2
+ssbanger(131): a 4
+ssbanger: A 320 4
+ssbanger(132): a 3
+ssbanger: A 387 3
+ssbanger(133): a 6
+ssbanger: A 390 6
+ssbanger(134): a 10
+ssbanger: A 396 10
+ssbanger: f 356 4
+ssbanger: F 356 4
+ssbanger: f 199 2
+ssbanger: F 199 2
+ssbanger(135): a 1
+ssbanger: A 58 1
+ssbanger(136): a 4
+ssbanger: A 406 4
+ssbanger(137): a 2
+ssbanger: A 324 2
+ssbanger: f 227 8
+ssbanger: F 227 8
+ssbanger(138): a 4
+ssbanger: A 227 4
+ssbanger(139): a 1
+ssbanger: A 126 1
+ssbanger: f 390 6
+ssbanger: F 390 6
+ssbanger: f 72 5
+ssbanger: F 72 5
+ssbanger(140): a 3
+ssbanger: A 72 3
+ssbanger(141): a 4
+ssbanger: A 390 4
+ssbanger: f 299 3
+ssbanger: F 299 3
+ssbanger(142): a 7
+ssbanger: A 410 7
+ssbanger: f 193 3
+ssbanger: F 193 3
+ssbanger(143): a 6
+ssbanger: A 417 6
+ssbanger(144): a 6
+ssbanger: A 423 6
+ssbanger: f 251 2
+ssbanger: F 251 2
+ssbanger(145): a 1
+ssbanger: A 75 1
+ssbanger(146): a 4
+ssbanger: A 299 4
+ssbanger(147): a 11
+ssbanger: A 429 11
+ssbanger(148): a 3
+ssbanger: A 193 3
+ssbanger(149): a 1
+ssbanger: A 145 1
+ssbanger(150): a 3
+ssbanger: A 231 3
+ssbanger: f 239 3
+ssbanger: F 239 3
+ssbanger(151): a 1
+ssbanger: A 173 1
+ssbanger(152): a 4
+ssbanger: A 440 4
+ssbanger(153): a 4
+ssbanger: A 444 4
+ssbanger(154): a 7
+ssbanger: A 448 7
+ssbanger: f 448 7
+ssbanger: F 448 7
+ssbanger(155): a 3
+ssbanger: A 239 3
+ssbanger(156): a 2
+ssbanger: A 356 2
+ssbanger(157): a 4
+ssbanger: A 448 4
+ssbanger(158): a 4
+ssbanger: A 452 4
+ssbanger(159): a 9
+ssbanger: A 456 9
+ssbanger(160): a 3
+ssbanger: A 465 3
+ssbanger(161): a 7
+ssbanger: A 468 7
+ssbanger(162): a 9
+ssbanger: A 475 9
+ssbanger(163): a 4
+ssbanger: A 484 4
+ssbanger(164): a 11
+ssbanger: A 488 11
+ssbanger(165): a 4
+ssbanger: A 499 4
+ssbanger(166): a 3
+ssbanger: A 503 3
+ssbanger(167): a 3
+ssbanger: A 506 3
+ssbanger(168): a 2
+ssbanger: A 509 2
+ssbanger(169): a 6
+ssbanger: A 511 6
+ssbanger: f 13 1
+ssbanger: F 13 1
+ssbanger(170): a 3
+ssbanger: A 517 3
+ssbanger(171): a 5
+ssbanger: A 520 5
+ssbanger: f 142 3
+ssbanger: F 142 3
+ssbanger(172): a 5
+ssbanger: A 525 5
+ssbanger(173): a 9
+ssbanger: A 530 9
+ssbanger(174): a 2
+ssbanger: A 142 2
+ssbanger(175): a 1
+ssbanger: A 13 1
+ssbanger(176): a 6
+ssbanger: A 539 6
+ssbanger: f 406 4
+ssbanger: F 406 4
+ssbanger: f 111 13
+ssbanger: F 111 13
+ssbanger(177): a 5
+ssbanger: A 111 5
+ssbanger: f 525 5
+ssbanger: F 525 5
+ssbanger: f 440 4
+ssbanger: F 440 4
+ssbanger(178): a 4
+ssbanger: A 116 4
+ssbanger(179): a 6
+ssbanger: A 545 6
+ssbanger(180): a 2
+ssbanger: A 120 2
+ssbanger(181): a 8
+ssbanger: A 551 8
+ssbanger(182): a 3
+ssbanger: A 406 3
+ssbanger(183): a 1
+ssbanger: A 122 1
+ssbanger(184): a 5
+ssbanger: A 559 5
+ssbanger(185): a 7
+ssbanger: A 564 7
+ssbanger(186): a 7
+ssbanger: A 571 7
+ssbanger(187): a 2
+ssbanger: A 440 2
+ssbanger(188): a 2
+ssbanger: A 525 2
+ssbanger(189): a 8
+ssbanger: A 578 8
+ssbanger(190): a 4
+ssbanger: A 586 4
+ssbanger(191): a 5
+ssbanger: A 590 5
+ssbanger(192): a 2
+ssbanger: A 527 2
+ssbanger(193): a 4
+ssbanger: A 595 4
+ssbanger: f 525 2
+ssbanger: F 525 2
+ssbanger: f 33 2
+ssbanger: F 33 2
+ssbanger(194): a 2
+ssbanger: A 32 2
+ssbanger(195): a 6
+ssbanger: A 599 6
+ssbanger: f 314 6
+ssbanger: F 314 6
+ssbanger(196): a 5
+ssbanger: A 314 5
+ssbanger(197): a 2
+ssbanger: A 605 2
+ssbanger(198): a 5
+ssbanger: A 607 5
+ssbanger: f 607 5
+ssbanger: F 607 5
+ssbanger(199): a 3
+ssbanger: A 607 3
+ssbanger: f 452 4
+ssbanger: F 452 4
+ssbanger(200): a 3
+ssbanger: A 452 3
+ssbanger(201): a 6
+ssbanger: A 610 6
+ssbanger(202): a 5
+ssbanger: A 616 5
+ssbanger(203): a 3
+ssbanger: A 621 3
+ssbanger(204): a 3
+ssbanger: A 624 3
+ssbanger(205): a 4
+ssbanger: A 627 4
+ssbanger(206): a 4
+ssbanger: A 631 4
+ssbanger: f 60 2
+ssbanger: F 60 2
+ssbanger(207): a 5
+ssbanger: A 635 5
+ssbanger(208): a 2
+ssbanger: A 59 2
+ssbanger: f 42 5
+ssbanger: F 42 5
+ssbanger(209): a 4
+ssbanger: A 41 4
+ssbanger(210): a 3
+ssbanger: A 640 3
+ssbanger(211): a 4
+ssbanger: A 643 4
+ssbanger(212): a 2
+ssbanger: A 647 2
+ssbanger(213): a 8
+ssbanger: A 649 8
+ssbanger: f 338 2
+ssbanger: F 338 2
+ssbanger(214): a 3
+ssbanger: A 657 3
+ssbanger(215): a 5
+ssbanger: A 660 5
+ssbanger(216): a 7
+ssbanger: A 665 7
+ssbanger(217): a 10
+ssbanger: A 672 10
+ssbanger(218): a 1
+ssbanger: A 34 1
+ssbanger(219): a 4
+ssbanger: A 682 4
+ssbanger(220): a 6
+ssbanger: A 686 6
+ssbanger: f 21 2
+ssbanger: F 21 2
+ssbanger(221): a 3
+ssbanger: A 692 3
+ssbanger(222): a 2
+ssbanger: A 695 2
+ssbanger(223): a 2
+ssbanger: A 697 2
+ssbanger(224): a 3
+ssbanger: A 699 3
+ssbanger(225): a 4
+ssbanger: A 702 4
+ssbanger: f 605 2
+ssbanger: F 605 2
+ssbanger: f 429 11
+ssbanger: F 429 11
+ssbanger(226): a 2
+ssbanger: A 429 2
+ssbanger(227): a 1
+ssbanger: A 21 1
+ssbanger(228): a 8
+ssbanger: A 431 8
+ssbanger(229): a 6
+ssbanger: A 706 6
+ssbanger: f 324 2
+ssbanger: F 324 2
+ssbanger(230): a 4
+ssbanger: A 712 4
+ssbanger: f 142 2
+ssbanger: F 142 2
+ssbanger(231): a 4
+ssbanger: A 716 4
+ssbanger(232): a 2
+ssbanger: A 142 2
+ssbanger: f 343 3
+ssbanger: F 343 3
+ssbanger(233): a 5
+ssbanger: A 720 5
+ssbanger(234): a 1
+ssbanger: A 45 1
+ssbanger(235): a 10
+ssbanger: A 725 10
+ssbanger: f 484 4
+ssbanger: F 484 4
+ssbanger(236): a 2
+ssbanger: A 324 2
+ssbanger(237): a 5
+ssbanger: A 735 5
+ssbanger(238): a 2
+ssbanger: A 343 2
+ssbanger(239): a 5
+ssbanger: A 740 5
+ssbanger(240): a 3
+ssbanger: A 484 3
+ssbanger(241): a 8
+ssbanger: A 745 8
+ssbanger: f 185 2
+ssbanger: F 185 2
+ssbanger: f 243 3
+ssbanger: F 243 3
+ssbanger(242): a 2
+ssbanger: A 185 2
+ssbanger(243): a 15
+ssbanger: A 753 15
+ssbanger: f 530 9
+ssbanger: F 530 9
+ssbanger(244): a 4
+ssbanger: A 529 4
+ssbanger(245): a 5
+ssbanger: A 533 5
+ssbanger: f 239 3
+ssbanger: F 239 3
+ssbanger: f 255 5
+ssbanger: F 255 5
+ssbanger(246): a 6
+ssbanger: A 239 6
+ssbanger(247): a 6
+ssbanger: A 768 6
+ssbanger(248): a 3
+ssbanger: A 255 3
+ssbanger(249): a 7
+ssbanger: A 774 7
+ssbanger(250): a 3
+ssbanger: A 781 3
+ssbanger(251): a 6
+ssbanger: A 784 6
+ssbanger(252): a 6
+ssbanger: A 790 6
+ssbanger(253): a 6
+ssbanger: A 796 6
+ssbanger(254): a 5
+ssbanger: A 802 5
+ssbanger(255): a 6
+ssbanger: A 807 6
+ssbanger: f 47 4
+ssbanger: F 47 4
+ssbanger(256): a 6
+ssbanger: A 813 6
+ssbanger(257): a 2
+ssbanger: A 46 2
+ssbanger(258): a 7
+ssbanger: A 819 7
+ssbanger(259): a 3
+ssbanger: A 826 3
+ssbanger: f 235 4
+ssbanger: F 235 4
+ssbanger(260): a 1
+ssbanger: A 48 1
+ssbanger(261): a 3
+ssbanger: A 234 3
+ssbanger: f 468 7
+ssbanger: F 468 7
+ssbanger(262): a 4
+ssbanger: A 468 4
+ssbanger(263): a 3
+ssbanger: A 829 3
+ssbanger: f 151 1
+ssbanger: F 151 1
+ssbanger(264): a 1
+ssbanger: A 49 1
+ssbanger(265): a 8
+ssbanger: A 832 8
+ssbanger: f 527 2
+ssbanger: F 527 2
+ssbanger: f 423 6
+ssbanger: F 423 6
+ssbanger(266): a 6
+ssbanger: A 840 6
+ssbanger: f 324 2
+ssbanger: F 324 2
+ssbanger(267): a 6
+ssbanger: A 846 6
+ssbanger(268): a 1
+ssbanger: A 199 1
+ssbanger(269): a 5
+ssbanger: A 423 5
+ssbanger(270): a 3
+ssbanger: A 525 3
+ssbanger: f 216 1
+ssbanger: F 216 1
+ssbanger(271): a 4
+ssbanger: A 852 4
+ssbanger(272): a 4
+ssbanger: A 856 4
+ssbanger(273): a 5
+ssbanger: A 860 5
+ssbanger(274): a 5
+ssbanger: A 865 5
+ssbanger(275): a 4
+ssbanger: A 870 4
+ssbanger(276): a 4
+ssbanger: A 874 4
+ssbanger(277): a 1
+ssbanger: A 205 1
+ssbanger: f 406 3
+ssbanger: F 406 3
+ssbanger(278): a 4
+ssbanger: A 878 4
+ssbanger(279): a 3
+ssbanger: A 406 3
+ssbanger: f 370 3
+ssbanger: F 370 3
+ssbanger(280): a 7
+ssbanger: A 882 7
+ssbanger: f 829 3
+ssbanger: F 829 3
+ssbanger(281): a 2
+ssbanger: A 324 2
+ssbanger: f 846 6
+ssbanger: F 846 6
+ssbanger: f 616 5
+ssbanger: F 616 5
+ssbanger: f 45 1
+ssbanger: F 45 1
+ssbanger: f 75 1
+ssbanger: F 75 1
+ssbanger: f 712 4
+ssbanger: F 712 4
+ssbanger(282): a 7
+ssbanger: A 889 7
+ssbanger(283): a 5
+ssbanger: A 846 5
+ssbanger: f 506 3
+ssbanger: F 506 3
+ssbanger(284): a 4
+ssbanger: A 616 4
+ssbanger(285): a 3
+ssbanger: A 712 3
+ssbanger(286): a 4
+ssbanger: A 896 4
+ssbanger(287): a 3
+ssbanger: A 900 3
+ssbanger(288): a 4
+ssbanger: A 903 4
+ssbanger(289): a 3
+ssbanger: A 907 3
+ssbanger(290): a 10
+ssbanger: A 910 10
+ssbanger(291): a 8
+ssbanger: A 920 8
+ssbanger: f 870 4
+ssbanger: F 870 4
+ssbanger(292): a 3
+ssbanger: A 870 3
+ssbanger(293): a 1
+ssbanger: A 75 1
+ssbanger: f 423 5
+ssbanger: F 423 5
+ssbanger(294): a 6
+ssbanger: A 928 6
+ssbanger(295): a 3
+ssbanger: A 423 3
+ssbanger(296): a 4
+ssbanger: A 934 4
+ssbanger(297): a 2
+ssbanger: A 370 2
+ssbanger(298): a 6
+ssbanger: A 938 6
+ssbanger(299): a 6
+ssbanger: A 944 6
+ssbanger(300): a 2
+ssbanger: A 426 2
+ssbanger(301): a 3
+ssbanger: A 950 3
+ssbanger(302): a 1
+ssbanger: A 237 1
+ssbanger: f 716 4
+ssbanger: F 716 4
+ssbanger: f 627 4
+ssbanger: F 627 4
+ssbanger: f 370 2
+ssbanger: F 370 2
+ssbanger: f 122 1
+ssbanger: F 122 1
+ssbanger(303): a 2
+ssbanger: A 370 2
+ssbanger(304): a 2
+ssbanger: A 472 2
+ssbanger: f 448 4
+ssbanger: F 448 4
+ssbanger(305): a 11
+ssbanger: A 953 11
+ssbanger(306): a 4
+ssbanger: A 715 4
+ssbanger(307): a 5
+ssbanger: A 964 5
+ssbanger(308): a 2
+ssbanger: A 448 2
+ssbanger(309): a 10
+ssbanger: A 969 10
+ssbanger(310): a 4
+ssbanger: A 979 4
+ssbanger(311): a 3
+ssbanger: A 627 3
+ssbanger: f 819 7
+ssbanger: F 819 7
+ssbanger(312): a 4
+ssbanger: A 819 4
+ssbanger(313): a 2
+ssbanger: A 506 2
+ssbanger(314): a 4
+ssbanger: A 983 4
+ssbanger(315): a 5
+ssbanger: A 987 5
+ssbanger(316): a 7
+ssbanger: A 992 7
+ssbanger(317): a 3
+ssbanger: A 999 3
+ssbanger(318): a 2
+ssbanger: A 823 2
+ssbanger: f 145 1
+ssbanger: F 145 1
+ssbanger(319): a 6
+ssbanger: A 1002 6
+ssbanger(320): a 1
+ssbanger: A 122 1
+ssbanger(321): a 2
+ssbanger: A 144 2
+ssbanger(322): a 5
+ssbanger: A 1008 5
+ssbanger(323): a 4
+ssbanger: A 1013 4
+ssbanger(324): a 12
+Memory allocation failed : out of memory.
+ssbanger: A failed for 12
+ssbanger(325): a 2
+ssbanger: A 829 2
+ssbanger(326): a 2
+ssbanger: A 1017 2
+ssbanger(327): a 2
+ssbanger: A 1019 2
+ssbanger(328): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(329): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 852 4
+ssbanger: F 852 4
+ssbanger(330): a 1
+ssbanger: A 251 1
+ssbanger: f 624 3
+ssbanger: F 624 3
+ssbanger(331): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(332): a 1
+ssbanger: A 258 1
+ssbanger: f 607 3
+ssbanger: F 607 3
+ssbanger(333): a 4
+ssbanger: A 605 4
+ssbanger(334): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger: f 529 4
+ssbanger: F 529 4
+ssbanger(335): a 4
+ssbanger: A 528 4
+ssbanger(336): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(337): a 2
+ssbanger: A 624 2
+ssbanger(338): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(339): a 2
+ssbanger: A 851 2
+ssbanger(340): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(341): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(342): a 2
+ssbanger: A 853 2
+ssbanger(343): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(344): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(345): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(346): a 2
+ssbanger: A 1021 2
+ssbanger(347): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(348): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(349): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(350): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(351): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(352): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(353): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 964 5
+ssbanger: F 964 5
+ssbanger(354): a 2
+ssbanger: A 964 2
+ssbanger: f 122 1
+ssbanger: F 122 1
+ssbanger(355): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(356): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(357): a 2
+ssbanger: A 966 2
+ssbanger: f 616 4
+ssbanger: F 616 4
+ssbanger(358): a 3
+ssbanger: A 616 3
+ssbanger(359): a 1
+ssbanger: A 122 1
+ssbanger(360): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 860 5
+ssbanger: F 860 5
+ssbanger(361): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 396 10
+ssbanger: F 396 10
+ssbanger(362): a 4
+ssbanger: A 394 4
+ssbanger(363): a 4
+ssbanger: A 398 4
+ssbanger(364): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(365): a 2
+ssbanger: A 402 2
+ssbanger(366): a 3
+ssbanger: A 860 3
+ssbanger: f 46 2
+ssbanger: F 46 2
+ssbanger(367): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(368): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(369): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(370): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(371): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger: f 907 3
+ssbanger: F 907 3
+ssbanger(372): a 2
+ssbanger: A 45 2
+ssbanger(373): a 2
+ssbanger: A 907 2
+ssbanger(374): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(375): a 1
+ssbanger: A 338 1
+ssbanger(376): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(377): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(378): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(379): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(380): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(381): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 11 2
+ssbanger: F 11 2
+ssbanger(382): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(383): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(384): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(385): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(386): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(387): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(388): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(389): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger: f 768 6
+ssbanger: F 768 6
+ssbanger: f 631 4
+ssbanger: F 631 4
+ssbanger: f 15 6
+ssbanger: F 15 6
+ssbanger(390): a 3
+ssbanger: A 14 3
+ssbanger(391): a 5
+ssbanger: A 768 5
+ssbanger(392): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(393): a 2
+ssbanger: A 17 2
+ssbanger: f 40 1
+ssbanger: F 40 1
+ssbanger: f 686 6
+ssbanger: F 686 6
+ssbanger(394): a 3
+ssbanger: A 630 3
+ssbanger(395): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 790 6
+ssbanger: F 790 6
+ssbanger: f 595 4
+ssbanger: F 595 4
+ssbanger(396): a 2
+ssbanger: A 595 2
+ssbanger(397): a 4
+ssbanger: A 686 4
+ssbanger: f 649 8
+ssbanger: F 649 8
+ssbanger(398): a 4
+ssbanger: A 649 4
+ssbanger: f 387 3
+ssbanger: F 387 3
+ssbanger: f 465 3
+ssbanger: F 465 3
+ssbanger: f 802 5
+ssbanger: F 802 5
+ssbanger(399): a 5
+ssbanger: A 790 5
+ssbanger(400): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(401): a 1
+ssbanger: A 11 1
+ssbanger(402): a 3
+ssbanger: A 653 3
+ssbanger: f 134 1
+ssbanger: F 134 1
+ssbanger: f 456 9
+ssbanger: F 456 9
+ssbanger(403): a 2
+ssbanger: A 387 2
+ssbanger: f 506 2
+ssbanger: F 506 2
+ssbanger: f 231 3
+ssbanger: F 231 3
+ssbanger: f 54 2
+ssbanger: F 54 2
+ssbanger(404): a 2
+ssbanger: A 231 2
+ssbanger(405): a 4
+ssbanger: A 455 4
+ssbanger(406): a 2
+ssbanger: A 459 2
+ssbanger(407): a 3
+ssbanger: A 461 3
+ssbanger(408): a 12
+Memory allocation failed : out of memory.
+ssbanger: A failed for 12
+ssbanger(409): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger: f 586 4
+ssbanger: F 586 4
+ssbanger(410): a 2
+ssbanger: A 464 2
+ssbanger(411): a 3
+ssbanger: A 586 3
+ssbanger(412): a 3
+ssbanger: A 802 3
+ssbanger(413): a 2
+ssbanger: A 506 2
+ssbanger(414): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(415): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 829 2
+ssbanger: F 829 2
+ssbanger: f 979 4
+ssbanger: F 979 4
+ssbanger(416): a 2
+ssbanger: A 829 2
+ssbanger(417): a 2
+ssbanger: A 979 2
+ssbanger(418): a 1
+ssbanger: A 19 1
+ssbanger(419): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 45 2
+ssbanger: F 45 2
+ssbanger(420): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(421): a 2
+ssbanger: A 45 2
+ssbanger: f 331 7
+ssbanger: F 331 7
+ssbanger(422): a 6
+ssbanger: A 331 6
+ssbanger(423): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(424): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(425): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger: f 813 6
+ssbanger: F 813 6
+ssbanger: f 503 3
+ssbanger: F 503 3
+ssbanger: f 1013 4
+ssbanger: F 1013 4
+ssbanger(426): a 4
+ssbanger: A 813 4
+ssbanger(427): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 832 8
+ssbanger: F 832 8
+ssbanger(428): a 5
+ssbanger: A 831 5
+ssbanger(429): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(430): a 3
+ssbanger: A 836 3
+ssbanger(431): a 3
+ssbanger: A 1013 3
+ssbanger(432): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(433): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 417 6
+ssbanger: F 417 6
+ssbanger(434): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(435): a 4
+ssbanger: A 417 4
+ssbanger(436): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(437): a 2
+ssbanger: A 503 2
+ssbanger(438): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(439): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(440): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(441): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger: f 559 5
+ssbanger: F 559 5
+ssbanger: f 132 2
+ssbanger: F 132 2
+ssbanger(442): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(443): a 3
+ssbanger: A 559 3
+ssbanger(444): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(445): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(446): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(447): a 19
+Memory allocation failed : out of memory.
+ssbanger: A failed for 19
+ssbanger(448): a 2
+ssbanger: A 132 2
+ssbanger(449): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(450): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(451): a 24
+Memory allocation failed : out of memory.
+ssbanger: A failed for 24
+ssbanger(452): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(453): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 525 3
+ssbanger: F 525 3
+ssbanger(454): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(455): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(456): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(457): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(458): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(459): a 1
+ssbanger: A 54 1
+ssbanger(460): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 410 7
+ssbanger: F 410 7
+ssbanger(461): a 4
+ssbanger: A 409 4
+ssbanger(462): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger: f 431 8
+ssbanger: F 431 8
+ssbanger(463): a 3
+ssbanger: A 413 3
+ssbanger(464): a 1
+ssbanger: A 358 1
+ssbanger(465): a 6
+ssbanger: A 431 6
+ssbanger(466): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(467): a 2
+ssbanger: A 437 2
+ssbanger(468): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(469): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(470): a 2
+ssbanger: A 525 2
+ssbanger(471): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 11 1
+ssbanger: F 11 1
+ssbanger(472): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger: f 165 4
+ssbanger: F 165 4
+ssbanger(473): a 2
+ssbanger: A 165 2
+ssbanger(474): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(475): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(476): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(477): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(478): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(479): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 979 2
+ssbanger: F 979 2
+ssbanger(480): a 3
+ssbanger: A 979 3
+ssbanger: f 475 9
+ssbanger: F 475 9
+ssbanger(481): a 4
+ssbanger: A 474 4
+ssbanger(482): a 2
+ssbanger: A 478 2
+ssbanger(483): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(484): a 2
+ssbanger: A 480 2
+ssbanger(485): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(486): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(487): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(488): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(489): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(490): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(491): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(492): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger: f 77 3
+ssbanger: F 77 3
+ssbanger(493): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(494): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(495): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(496): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(497): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(498): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(499): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(500): a 3
+ssbanger: A 76 3
+ssbanger(501): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(502): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(503): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger: f 753 15
+ssbanger: F 753 15
+ssbanger(504): a 1
+ssbanger: A 11 1
+ssbanger(505): a 1
+ssbanger: A 167 1
+ssbanger(506): a 4
+ssbanger: A 753 4
+ssbanger(507): a 3
+ssbanger: A 757 3
+ssbanger(508): a 2
+ssbanger: A 760 2
+ssbanger(509): a 3
+ssbanger: A 762 3
+ssbanger(510): a 2
+ssbanger: A 765 2
+ssbanger(511): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 725 10
+ssbanger: F 725 10
+ssbanger(512): a 6
+ssbanger: A 725 6
+ssbanger: f 740 5
+ssbanger: F 740 5
+ssbanger: f 373 9
+ssbanger: F 373 9
+ssbanger(513): a 5
+ssbanger: A 372 5
+ssbanger: f 120 2
+ssbanger: F 120 2
+ssbanger(514): a 2
+ssbanger: A 377 2
+ssbanger(515): a 3
+ssbanger: A 731 3
+ssbanger(516): a 1
+ssbanger: A 120 1
+ssbanger(517): a 1
+ssbanger: A 379 1
+ssbanger(518): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(519): a 11
+Memory allocation failed : out of memory.
+ssbanger: A failed for 11
+ssbanger(520): a 2
+ssbanger: A 740 2
+ssbanger(521): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(522): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 59 2
+ssbanger: F 59 2
+ssbanger(523): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(524): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 545 6
+ssbanger: F 545 6
+ssbanger(525): a 4
+ssbanger: A 545 4
+ssbanger: f 227 4
+ssbanger: F 227 4
+ssbanger(526): a 3
+ssbanger: A 227 3
+ssbanger(527): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(528): a 1
+ssbanger: A 59 1
+ssbanger(529): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 731 3
+ssbanger: F 731 3
+ssbanger(530): a 2
+ssbanger: A 731 2
+ssbanger(531): a 1
+ssbanger: A 60 1
+ssbanger(532): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(533): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(534): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(535): a 2
+ssbanger: A 742 2
+ssbanger(536): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(537): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(538): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(539): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(540): a 1
+ssbanger: A 380 1
+ssbanger(541): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(542): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(543): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(544): a 13
+Memory allocation failed : out of memory.
+ssbanger: A failed for 13
+ssbanger: f 765 2
+ssbanger: F 765 2
+ssbanger(545): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(546): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(547): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(548): a 2
+ssbanger: A 765 2
+ssbanger(549): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger: f 346 3
+ssbanger: F 346 3
+ssbanger(550): a 2
+ssbanger: A 345 2
+ssbanger(551): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(552): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(553): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(554): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(555): a 12
+Memory allocation failed : out of memory.
+ssbanger: A failed for 12
+ssbanger(556): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(557): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(558): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(559): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(560): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(561): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(562): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 260 3
+ssbanger: F 260 3
+ssbanger(563): a 2
+ssbanger: A 259 2
+ssbanger(564): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger: f 488 11
+ssbanger: F 488 11
+ssbanger(565): a 2
+ssbanger: A 487 2
+ssbanger(566): a 4
+ssbanger: A 489 4
+ssbanger: f 380 1
+ssbanger: F 380 1
+ssbanger(567): a 2
+ssbanger: A 493 2
+ssbanger(568): a 2
+ssbanger: A 495 2
+ssbanger: f 331 6
+ssbanger: F 331 6
+ssbanger(569): a 6
+ssbanger: A 331 6
+ssbanger(570): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(571): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(572): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(573): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(574): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(575): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 41 4
+ssbanger: F 41 4
+ssbanger(576): a 3
+ssbanger: A 40 3
+ssbanger(577): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(578): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(579): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(580): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 24 3
+ssbanger: F 24 3
+ssbanger(581): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(582): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(583): a 1
+ssbanger: A 24 1
+ssbanger: f 426 2
+ssbanger: F 426 2
+ssbanger(584): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(585): a 2
+ssbanger: A 426 2
+ssbanger(586): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(587): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(588): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(589): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 969 10
+ssbanger: F 969 10
+ssbanger: f 304 5
+ssbanger: F 304 5
+ssbanger(590): a 2
+ssbanger: A 303 2
+ssbanger(591): a 1
+ssbanger: A 25 1
+ssbanger(592): a 10
+ssbanger: A 968 10
+ssbanger(593): a 10
+Memory allocation failed : out of memory.
+ssbanger: A failed for 10
+ssbanger: f 349 4
+ssbanger: F 349 4
+ssbanger(594): a 4
+ssbanger: A 347 4
+ssbanger(595): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 193 3
+ssbanger: F 193 3
+ssbanger(596): a 1
+ssbanger: A 43 1
+ssbanger: f 280 10
+ssbanger: F 280 10
+ssbanger(597): a 6
+ssbanger: A 280 6
+ssbanger(598): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger: f 29 3
+ssbanger: F 29 3
+ssbanger(599): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(600): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(601): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(602): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(603): a 2
+ssbanger: A 29 2
+ssbanger(604): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(605): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 846 5
+ssbanger: F 846 5
+ssbanger(606): a 4
+ssbanger: A 846 4
+ssbanger(607): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(608): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(609): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 944 6
+ssbanger: F 944 6
+ssbanger: f 394 4
+ssbanger: F 394 4
+ssbanger: f 173 1
+ssbanger: F 173 1
+ssbanger: f 702 4
+ssbanger: F 702 4
+ssbanger(610): a 2
+ssbanger: A 193 2
+ssbanger(611): a 4
+ssbanger: A 944 4
+ssbanger(612): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 347 4
+ssbanger: F 347 4
+ssbanger(613): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(614): a 3
+ssbanger: A 286 3
+ssbanger(615): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(616): a 5
+ssbanger: A 347 5
+ssbanger(617): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(618): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(619): a 2
+ssbanger: A 305 2
+ssbanger: f 506 2
+ssbanger: F 506 2
+ssbanger(620): a 2
+ssbanger: A 394 2
+ssbanger(621): a 3
+ssbanger: A 505 3
+ssbanger(622): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 303 2
+ssbanger: F 303 2
+ssbanger(623): a 3
+ssbanger: A 702 3
+ssbanger(624): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(625): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(626): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(627): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(628): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(629): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(630): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 54 1
+ssbanger: F 54 1
+ssbanger(631): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 819 4
+ssbanger: F 819 4
+ssbanger: f 472 2
+ssbanger: F 472 2
+ssbanger: f 29 2
+ssbanger: F 29 2
+ssbanger: f 495 2
+ssbanger: F 495 2
+ssbanger(632): a 4
+ssbanger: A 817 4
+ssbanger(633): a 3
+ssbanger: A 495 3
+ssbanger(634): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(635): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 21 1
+ssbanger: F 21 1
+ssbanger(636): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(637): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(638): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(639): a 2
+ssbanger: A 20 2
+ssbanger(640): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 653 3
+ssbanger: F 653 3
+ssbanger(641): a 2
+ssbanger: A 29 2
+ssbanger: f 452 3
+ssbanger: F 452 3
+ssbanger(642): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(643): a 4
+ssbanger: A 450 4
+ssbanger(644): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(645): a 13
+Memory allocation failed : out of memory.
+ssbanger: A failed for 13
+ssbanger(646): a 2
+ssbanger: A 653 2
+ssbanger(647): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(648): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(649): a 1
+ssbanger: A 54 1
+ssbanger(650): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(651): a 1
+ssbanger: A 173 1
+ssbanger(652): a 1
+ssbanger: A 195 1
+ssbanger(653): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(654): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(655): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(656): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(657): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(658): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 964 2
+ssbanger: F 964 2
+ssbanger(659): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(660): a 1
+ssbanger: A 261 1
+ssbanger(661): a 2
+Memory allocation failed : out of memory.
+ssbanger: A failed for 2
+ssbanger(662): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 503 2
+ssbanger: F 503 2
+ssbanger(663): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(664): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(665): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 49 1
+ssbanger: F 49 1
+ssbanger(666): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(667): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(668): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 715 4
+ssbanger: F 715 4
+ssbanger: f 630 3
+ssbanger: F 630 3
+ssbanger(669): a 1
+ssbanger: A 49 1
+ssbanger: f 856 4
+ssbanger: F 856 4
+ssbanger(670): a 3
+ssbanger: A 630 3
+ssbanger(671): a 2
+ssbanger: A 715 2
+ssbanger(672): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(673): a 1
+ssbanger: A 303 1
+ssbanger(674): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(675): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(676): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(677): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(678): a 4
+ssbanger: A 855 4
+ssbanger(679): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(680): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger: f 158 7
+ssbanger: F 158 7
+ssbanger(681): a 4
+ssbanger: A 158 4
+ssbanger(682): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 586 3
+ssbanger: F 586 3
+ssbanger(683): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(684): a 3
+ssbanger: A 586 3
+ssbanger(685): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(686): a 2
+ssbanger: A 162 2
+ssbanger(687): a 2
+ssbanger: A 717 2
+ssbanger: f 464 2
+ssbanger: F 464 2
+ssbanger(688): a 1
+ssbanger: A 307 1
+ssbanger(689): a 2
+ssbanger: A 464 2
+ssbanger: f 720 5
+ssbanger: F 720 5
+ssbanger: f 54 1
+ssbanger: F 54 1
+ssbanger: f 365 5
+ssbanger: F 365 5
+ssbanger(690): a 10
+Memory allocation failed : out of memory.
+ssbanger: A failed for 10
+ssbanger: f 896 4
+ssbanger: F 896 4
+ssbanger(691): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(692): a 4
+ssbanger: A 365 4
+ssbanger: f 144 2
+ssbanger: F 144 2
+ssbanger(693): a 5
+ssbanger: A 719 5
+ssbanger(694): a 1
+ssbanger: A 54 1
+ssbanger(695): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(696): a 2
+ssbanger: A 144 2
+ssbanger: f 307 1
+ssbanger: F 307 1
+ssbanger(697): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(698): a 14
+Memory allocation failed : out of memory.
+ssbanger: A failed for 14
+ssbanger(699): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(700): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 461 3
+ssbanger: F 461 3
+ssbanger(701): a 3
+ssbanger: A 896 3
+ssbanger(702): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(703): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger: f 517 3
+ssbanger: F 517 3
+ssbanger(704): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(705): a 1
+ssbanger: A 307 1
+ssbanger: f 13 1
+ssbanger: F 13 1
+ssbanger: f 409 4
+ssbanger: F 409 4
+ssbanger: f 280 6
+ssbanger: F 280 6
+ssbanger(706): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(707): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(708): a 4
+ssbanger: A 280 4
+ssbanger: f 437 2
+ssbanger: F 437 2
+ssbanger(709): a 10
+Memory allocation failed : out of memory.
+ssbanger: A failed for 10
+ssbanger(710): a 3
+ssbanger: A 409 3
+ssbanger(711): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 347 5
+ssbanger: F 347 5
+ssbanger(712): a 3
+ssbanger: A 347 3
+ssbanger: f 840 6
+ssbanger: F 840 6
+ssbanger: f 126 1
+ssbanger: F 126 1
+ssbanger(713): a 4
+ssbanger: A 839 4
+ssbanger(714): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(715): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(716): a 2
+ssbanger: A 350 2
+ssbanger(717): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(718): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(719): a 6
+Memory allocation failed : out of memory.
+ssbanger: A failed for 6
+ssbanger(720): a 2
+ssbanger: A 437 2
+ssbanger: f 437 2
+ssbanger: F 437 2
+ssbanger(721): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 96 6
+ssbanger: F 96 6
+ssbanger: f 205 1
+ssbanger: F 205 1
+ssbanger(722): a 3
+ssbanger: A 96 3
+ssbanger(723): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(724): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(725): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(726): a 1
+ssbanger: A 12 1
+ssbanger(727): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger: f 559 3
+ssbanger: F 559 3
+ssbanger: f 60 1
+ssbanger: F 60 1
+ssbanger: f 987 5
+ssbanger: F 987 5
+ssbanger(728): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(729): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(730): a 4
+ssbanger: A 559 4
+ssbanger(731): a 11
+Memory allocation failed : out of memory.
+ssbanger: A failed for 11
+ssbanger(732): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(733): a 4
+ssbanger: A 987 4
+ssbanger(734): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(735): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(736): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 207 2
+ssbanger: F 207 2
+ssbanger(737): a 7
+Memory allocation failed : out of memory.
+ssbanger: A failed for 7
+ssbanger(738): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(739): a 1
+ssbanger: A 60 1
+ssbanger(740): a 4
+ssbanger: A 205 4
+ssbanger(741): a 11
+Memory allocation failed : out of memory.
+ssbanger: A failed for 11
+ssbanger(742): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(743): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(744): a 2
+ssbanger: A 99 2
+ssbanger(745): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(746): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 480 2
+ssbanger: F 480 2
+ssbanger(747): a 2
+ssbanger: A 437 2
+ssbanger(748): a 1
+ssbanger: A 126 1
+ssbanger(749): a 2
+ssbanger: A 461 2
+ssbanger(750): a 2
+ssbanger: A 480 2
+ssbanger(751): a 4
+Memory allocation failed : out of memory.
+ssbanger: A failed for 4
+ssbanger(752): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(753): a 2
+ssbanger: A 517 2
+ssbanger(754): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(755): a 1
+ssbanger: A 284 1
+ssbanger(756): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(757): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(758): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(759): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 263 7
+ssbanger: F 263 7
+ssbanger(760): a 3
+ssbanger: A 262 3
+ssbanger(761): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(762): a 1
+ssbanger: A 265 1
+ssbanger(763): a 3
+ssbanger: A 266 3
+ssbanger(764): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger: f 440 2
+ssbanger: F 440 2
+ssbanger(765): a 2
+ssbanger: A 439 2
+ssbanger(766): a 9
+Memory allocation failed : out of memory.
+ssbanger: A failed for 9
+ssbanger(767): a 3
+Memory allocation failed : out of memory.
+ssbanger: A failed for 3
+ssbanger(768): a 2
+ssbanger: A 441 2
+ssbanger: f 992 7
+ssbanger: F 992 7
+ssbanger(769): a 8
+Memory allocation failed : out of memory.
+ssbanger: A failed for 8
+ssbanger(770): a 2
+ssbanger: A 843 2
+ssbanger(771): a 7
+ssbanger: A 991 7
+ssbanger: f 455 4
+ssbanger: F 455 4
+ssbanger: f 715 2
+ssbanger: F 715 2
+ssbanger(772): a 1
+ssbanger: A 380 1
+ssbanger(773): a 5
+Memory allocation failed : out of memory.
+ssbanger: A failed for 5
+ssbanger(774): a 2
+ssbanger: A 454 2
+ssbanger: total 1000 allocreq 774 success 493 fail 281
+ssbanger: dumping
+[0] 152 6
+[1] 158 4
+[2] 8 3
+[3] 14 3
+[4] 5 2
+[5] 692 3
+[6] 27 2
+[7] 253 2
+[8] 188 3
+[9] 36 4
+[10] 124 2
+[11] 40 3
+[12] 813 4
+[13] 51 3
+[14] 231 2
+[15] 0 4
+[16] 635 5
+[17] 62 10
+[18] 72 3
+[19] 76 3
+[20] 280 4
+[21] 165 2
+[22] 86 1
+[23] 91 5
+[24] 96 3
+[25] 102 9
+[26] 111 5
+[27] 23 1
+[28] 135 3
+[29] 139 3
+[30] 360 5
+[31] 49 1
+[32] 147 4
+[33] 630 3
+[34] 314 5
+[35] 175 3
+[36] 179 4
+[37] 768 5
+[38] 185 2
+[39] 246 5
+[40] 128 4
+[41] 559 4
+[42] 85 1
+[43] 290 5
+[44] 32 2
+[45] 191 2
+[46] 327 4
+[47] 197 2
+[48] 387 2
+[49] 307 1
+[50] 227 3
+[51] 201 2
+[52] 210 6
+[53] 251 1
+[54] 217 10
+[55] 87 3
+[56] 48 1
+[57] 817 4
+[58] 24 1
+[59] 56 2
+[60] 11 1
+[61] 58 1
+[62] 889 7
+[63] 365 4
+[64] 239 6
+[65] 259 2
+[66] 262 3
+[67] 270 3
+[68] 273 7
+[69] 702 3
+[70] 309 5
+[71] 80 2
+[72] 169 4
+[73] 82 2
+[74] 183 2
+[75] 203 2
+[76] 331 6
+[77] 417 4
+[78] 193 2
+[79] 60 1
+[80] 657 3
+[81] 340 3
+[82] 345 2
+[83] 286 3
+[84] 353 3
+[85] 116 4
+[86] 295 4
+[87] 409 3
+[88] 545 4
+[89] 719 5
+[90] 882 7
+[91] 372 5
+[92] 382 5
+[93] 320 4
+[94] 790 5
+[95] 390 4
+[96] 944 4
+[97] 846 4
+[98] 839 4
+[99] 350 2
+[100] 299 4
+[101] 429 2
+[102] 43 1
+[103] 1002 6
+[104] 380 1
+[105] 377 2
+[106] 444 4
+[107] 17 2
+[108] 356 2
+[109] 953 11
+[110] 450 4
+[111] 459 2
+[112] 979 3
+[113] 468 4
+[114] 474 4
+[115] 616 3
+[116] 487 2
+[117] 499 4
+[118] 831 5
+[119] 712 3
+[120] 509 2
+[121] 511 6
+[122] 520 5
+[123] 528 4
+[124] 370 2
+[125] 347 3
+[126] 539 6
+[127] 551 8
+[128] 878 4
+[129] 495 3
+[130] 132 2
+[131] 564 7
+[132] 571 7
+[133] 439 2
+[134] 599 6
+[135] 578 8
+[136] 896 3
+[137] 590 5
+[138] 199 1
+[139] 595 2
+[140] 20 2
+[141] 605 4
+[142] 610 6
+[143] 54 1
+[144] 621 3
+[145] 258 1
+[146] 454 2
+[147] 686 4
+[148] 59 1
+[149] 640 3
+[150] 643 4
+[151] 647 2
+[152] 649 4
+[153] 660 5
+[154] 665 7
+[155] 672 10
+[156] 34 1
+[157] 682 4
+[158] 29 2
+[159] 695 2
+[160] 697 2
+[161] 699 3
+[162] 12 1
+[163] 413 3
+[164] 706 6
+[165] 142 2
+[166] 900 3
+[167] 725 6
+[168] 735 5
+[169] 343 2
+[170] 731 2
+[171] 484 3
+[172] 745 8
+[173] 533 5
+[174] 255 3
+[175] 774 7
+[176] 781 3
+[177] 784 6
+[178] 987 4
+[179] 796 6
+[180] 586 3
+[181] 807 6
+[182] 45 2
+[183] 653 2
+[184] 826 3
+[185] 234 3
+[186] 324 2
+[187] 836 3
+[188] 928 6
+[189] 144 2
+[190] 303 1
+[191] 398 4
+[192] 865 5
+[193] 870 3
+[194] 874 4
+[195] 205 4
+[196] 406 3
+[197] 903 4
+[198] 907 2
+[199] 910 10
+[200] 920 8
+[201] 75 1
+[202] 423 3
+[203] 934 4
+[204] 261 1
+[205] 938 6
+[206] 305 2
+[207] 426 2
+[208] 950 3
+[209] 237 1
+[210] 448 2
+[211] 25 1
+[212] 829 2
+[213] 627 3
+[214] 802 3
+[215] 983 4
+[216] 99 2
+[217] 843 2
+[218] 999 3
+[219] 823 2
+[220] 966 2
+[221] 437 2
+[222] 1008 5
+[223] 1013 3
+[224] 478 2
+[225] 1017 2
+[226] 1019 2
+[227] 624 2
+[228] 851 2
+[229] 853 2
+[230] 1021 2
+[231] 122 1
+[232] 402 2
+[233] 860 3
+[234] 338 1
+[235] 394 2
+[236] 19 1
+[237] 855 4
+[238] 358 1
+[239] 431 6
+[240] 126 1
+[241] 525 2
+[242] 461 2
+[243] 167 1
+[244] 753 4
+[245] 757 3
+[246] 760 2
+[247] 762 3
+[248] 765 2
+[249] 120 1
+[250] 379 1
+[251] 740 2
+[252] 480 2
+[253] 742 2
+[254] 493 2
+[255] 489 4
+[256] 173 1
+[257] 968 10
+[258] 505 3
+[259] 195 1
+[260] 162 2
+[261] 717 2
+[262] 464 2
+[263] 517 2
+[264] 284 1
+[265] 265 1
+[266] 266 3
+[267] 441 2
+[268] 991 7
+11110110 11111011 11111101 11011110 11101111 11110110 11011110 11111011
+11111111 11111110 11110111 11011111 11111011 11111111 11111111 10101110
+11111101 11011111 11011110 11111111 11110111 01111101 11011111 11101111
+11110111 01111111 10111111 01111111 11111101 10111101 11111011 11110111
+11111111 11111011 11111111 11111011 10111111 11111111 01110111 11111110
+11111101 11111111 10101111 11111111 01111110 11111111 10111111 11111011
+11111011 11110011 11110011 11110111 01111001 11110111 11111111 11101111
+11111111 00011110 11001111 00111111 11001111 11111111 11011110 01110111
+11111110 11111110 11110111 11011111 11111001 11111111 11101111 11111111
+11111111 11111011 11111001 11111111 10111111 11100111 11011111 10011111
+11111111 11111110 01111111 11111111 11111111 11111111 11001111 11111111
+10111111 11100111 11110111 11111001 11111111 01111111 11111111 11111110
+11111011 11111111 11111111 11101111 11111001 11111111 11111001 10111111
+11111111 11111011 11011111 11101110 01111111 10111111 11111111 11111111
+11101111 11111011 11111111 11111111 11111111 11111111 11110011 11111111
+11110011 11111111 11011101 11111111 11111101 11111111 11111111 01111110
+Memory allocation is valid.
+
+Process finished with exit code 0
